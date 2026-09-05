@@ -1,0 +1,13 @@
+{
+  "checked_date": "2026-09-05",
+  "scope": "Small unauthenticated read-only requests. Availability does not establish rights, completeness or future uptime.",
+  "requests": [
+    {"url": "https://servicii.gov.md/rsspa-api/catalog/categories", "status": 200, "result": "JSON categories with multilingual fields", "file": "services-probe.json"},
+    {"url": "https://servicii.gov.md/rsspa-api/catalog/categories/10570ad9-0de6-43b1-a813-b14e6198fac8", "status": 200, "result": "Category and current publicServices codes", "file": "services-category-probe.json"},
+    {"url": "https://servicii.gov.md/rsspa-api/public-service/code/006000022", "status": 204, "result": "No content; historical README example"},
+    {"url": "https://servicii.gov.md/rsspa-api/public-service/code/001000056", "status": 200, "result": "Nonempty current service JSON", "file": "service-current-detail-probe.json"},
+    {"url": "https://dataset.gov.md/api/3/action/package_search?rows=2", "status": 200, "result": "CKAN success=true; metadata/resources inspected", "file": "ckan-probe.json"},
+    {"url": "https://api.open-meteo.com/v1/forecast?latitude=47.01&longitude=28.86&current=temperature_2m&forecast_days=1", "status": 200, "result": "Forecast JSON; no validation of forecast accuracy"},
+    {"url": "https://download.geofabrik.de/europe/moldova.html", "status": 200, "result": "Extract catalog HTML; data archive not downloaded"}
+  ]
+}

@@ -1,0 +1,118 @@
+YouTube transcript
+Video ID: RO0qY_TyPgI
+Language: en
+Captions: auto-generated
+
+[0:00] us me Nikolai and Gregory I'm a data
+[0:03] scientist Bulgaria is a front-end
+[0:05] developer the problem that we had is
+[0:08] that that we have been efficient access
+[0:11] supposedly to the information on public
+[0:14] services from the ceviche.gov
+[0:18] and the solution is to beaten to build
+[0:22] an AI powered chatbot that will
+[0:24] facilitate the streamlined and
+[0:26] interactive access to these Public
+[0:27] Service information
+[0:29] solution design so in general a large
+[0:33] language model
+[0:36] usually it doesn't have the information
+[0:38] the your specific information so you
+[0:41] have to provide it somehow your domain
+[0:43] knowledge which is the knowledge of
+[0:45] cerviche Governor so what are the ways
+[0:48] to to give this knowledge one is to
+[0:51] train your own alola model that's not an
+[0:54] option
+[0:55] um within the heavy time and the money
+[0:57] another option is to do fine tuning we
+[1:01] did that we created a good data set with
+[1:03] question answer pairs we provided to the
+[1:06] open API through API we find to an
+[1:08] internet worked
+[1:10] um has had a good impact and then you
+[1:13] can also do a retrieval augmented
+[1:15] generation that has a high impact and
+[1:18] actually we do that uh so what we do we
+[1:21] load relevant documents to the to the
+[1:23] context and then we use that context to
+[1:24] answer questions Future's learning we
+[1:27] didn't employ it it's not not good I
+[1:29] mean it's too many tokens the impact is
+[1:31] small uh our solution if I put it as a
+[1:34] gift I stole this from online uh it
+[1:37] works like that so the user has a
+[1:38] question we have an llm which does the
+[1:42] embedding of that question uh we then
+[1:44] use the embed that embedding to retrieve
+[1:46] relevant documents which are stored
+[1:50] in a vector database and then we load
+[1:54] um one or the most relevant documents to
+[1:58] the context then we use them to answer
+[2:00] questions that's how we do it
+[2:02] [Music]
+[2:02] um
+[2:03] emo details our chatbot is an llam based
+[2:07] application with domain specific
+[2:09] knowledge we mainly use the open AI API
+[2:12] for the solution the llm engine that we
+[2:15] use is GPT 3.5 turbo we have fine-tuned
+[2:18] the llm model with a sample of question
+[2:20] answered pairs
+[2:22] we employ a retrieval augmented
+[2:24] generation
+[2:26] we store the documents all the documents
+[2:28] chunks of the documents in a vector the
+[2:30] B and then we use those chunks to answer
+[2:32] questions we retrieve them from that and
+[2:35] we also use the openai model for the for
+[2:37] the embedding uh besides the text the
+[2:41] the the text the interaction via text we
+[2:45] use also in buttons just to make it
+[2:48] easier to to interact with with the bot
+[2:50] uh we use some front engineering
+[2:53] generally
+[2:55] through this through this specification
+[2:58] of the system wrong
+[2:59] uh if I if I can use another diagram to
+[3:04] explain the solution a bit more that's
+[3:06] how it works we have the documentation
+[3:07] all the documents from certificate gov
+[3:10] MD we do the embedding with the with the
+[3:14] da Vinci from uh from open AI we started
+[3:17] in a vector index database called chroma
+[3:22] um uh we use the the engine of llm GPT
+[3:26] 3.5 to answer to generate the the answer
+[3:30] to themselves and they will also build a
+[3:32] web application using fast API to expose
+[3:35] this as a service and then Gregory used
+[3:38] this web API to have this mobile
+[3:41] application or this web interface
+[3:46] um okay here I'll demonstrate a few
+[3:48] flows that we have uh
+[3:51] uh just print screens from this from
+[3:53] this chatbot of ours uh when you watch
+[3:57] this just pause and look at the the
+[3:59] messages I just wrote it here that's the
+[4:03] same interaction continued and that's
+[4:06] another thing you can see for yourself
+[4:08] that the bot does does what is expected
+[4:11] to do
+[4:12] uh pretty amazing better so but also we
+[4:16] have not happy flows not so happy flow
+[4:18] is for example this one uh I guess this
+[4:21] one is a
+[4:26] yeah for some reason
+[4:28] yeah
+[4:30] yeah not really working we also can deal
+[4:34] with out of the content
+[4:35] questions for example when asked about
+[4:37] how to get to Jorge the bot will not
+[4:40] answer this
+[4:41] I will say that I can understand cannot
+[4:44] answer that it's out of the domain of
+[4:47] expertise also I just want to show you
+[4:49] how it works uh here is the web
+[4:52] interface
+[4:55] um
+[4:56] hi

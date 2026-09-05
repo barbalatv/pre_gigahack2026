@@ -1,0 +1,982 @@
+{
+  "sha": "19b6e91a80f483a01db2acf1650ae7ad980299a3",
+  "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/19b6e91a80f483a01db2acf1650ae7ad980299a3",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a3a3f1c5d44f044d664747c00ab6e914c9dc568",
+      "size": 16,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/7a3a3f1c5d44f044d664747c00ab6e914c9dc568"
+    },
+    {
+      "path": ".idea",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3a7812c47f3ecb69e2810268c4766e9245f4c66f",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/3a7812c47f3ecb69e2810268c4766e9245f4c66f"
+    },
+    {
+      "path": ".idea/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b58b603fea78041071d125a30db58d79b3d49217",
+      "size": 98,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/b58b603fea78041071d125a30db58d79b3d49217"
+    },
+    {
+      "path": ".idea/chat-own-docs-ft-rag.iml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24643cc37449b4bde54411a80b8ed61258225e34",
+      "size": 458,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/24643cc37449b4bde54411a80b8ed61258225e34"
+    },
+    {
+      "path": ".idea/modules.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f1e36592a50dc186cd5223c59fc0edf2a2a9a27",
+      "size": 292,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/5f1e36592a50dc186cd5223c59fc0edf2a2a9a27"
+    },
+    {
+      "path": ".idea/vcs.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35eb1ddfbbc029bcab630581847471d7f238ec53",
+      "size": 167,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/35eb1ddfbbc029bcab630581847471d7f238ec53"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fb60757446eec548a19895bfeea89b8da3ff8e7",
+      "size": 3035,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/5fb60757446eec548a19895bfeea89b8da3ff8e7"
+    },
+    {
+      "path": "chat-screenshot-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb1a74fa594af5528ffd1443294ea893be644c58",
+      "size": 491286,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/cb1a74fa594af5528ffd1443294ea893be644c58"
+    },
+    {
+      "path": "chat-screenshot-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f201aeda0c6c334a9ec64015a7d3e03481a22fb",
+      "size": 535747,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/6f201aeda0c6c334a9ec64015a7d3e03481a22fb"
+    },
+    {
+      "path": "chat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82910270e0c226ea482ed198dae08e96e4e063c2",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/82910270e0c226ea482ed198dae08e96e4e063c2"
+    },
+    {
+      "path": "chat/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "chat/chatobj.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cecaa59c39a5a3d950de066934fa99f4e91e6a41",
+      "size": 8146,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/cecaa59c39a5a3d950de066934fa99f4e91e6a41"
+    },
+    {
+      "path": "chat/console_app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "219f12e1699f8d632e0a4f597967968f834f8402",
+      "size": 764,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/219f12e1699f8d632e0a4f597967968f834f8402"
+    },
+    {
+      "path": "chat/tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "be8984f51c4ad3b67039e63dea5bf50901afb5d1",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/be8984f51c4ad3b67039e63dea5bf50901afb5d1"
+    },
+    {
+      "path": "chat/tests/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "chat/tests/test_chatobj.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bac62a146556fa46a3d235391a0f19739ead56c0",
+      "size": 1582,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/bac62a146556fa46a3d235391a0f19739ead56c0"
+    },
+    {
+      "path": "chat/web_service_fast_api.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f91fb8d0bf7a89c2b011ebaf6ca4c118a084d711",
+      "size": 840,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f91fb8d0bf7a89c2b011ebaf6ca4c118a084d711"
+    },
+    {
+      "path": "config.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70e76ffbb0c017d6b60e4bbe93fab0a950677fd2",
+      "size": 3292,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/70e76ffbb0c017d6b60e4bbe93fab0a950677fd2"
+    },
+    {
+      "path": "create-venv.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3a83f126adba1e967149d593ec084ca4a5308f7b",
+      "size": 205,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/3a83f126adba1e967149d593ec084ca4a5308f7b"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aee30ec7a4e359894de1444d4cb7c72d272c849e",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/aee30ec7a4e359894de1444d4cb7c72d272c849e"
+    },
+    {
+      "path": "data/df_services_nonascii.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de0f32a1c329f26cbaae3814dd42449a60501e75",
+      "size": 93783,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/de0f32a1c329f26cbaae3814dd42449a60501e75"
+    },
+    {
+      "path": "data/qa",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f61292379313a4f17b92b993fc922884b21e72f7",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/f61292379313a4f17b92b993fc922884b21e72f7"
+    },
+    {
+      "path": "data/qa/manual",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9502a7260fd00761b6270ecef1110a95ae133a04",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/9502a7260fd00761b6270ecef1110a95ae133a04"
+    },
+    {
+      "path": "data/qa/manual/alocatie-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5d9c4024f744272f06d10280cb89df6a4f67349",
+      "size": 935,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f5d9c4024f744272f06d10280cb89df6a4f67349"
+    },
+    {
+      "path": "data/qa/manual/alocatie-01.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e653051d4ce0fb2fba2fe5f61d30a4d4c8228bba",
+      "size": 1761,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e653051d4ce0fb2fba2fe5f61d30a4d4c8228bba"
+    },
+    {
+      "path": "data/qa/manual/alocatie-02.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "374842748ef73a92bd13d20a551734ad916ad0fe",
+      "size": 2021,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/374842748ef73a92bd13d20a551734ad916ad0fe"
+    },
+    {
+      "path": "data/qa/manual/cazier-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66785c4f1f5562b843ca14d7c7c488c5848cf498",
+      "size": 7105,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/66785c4f1f5562b843ca14d7c7c488c5848cf498"
+    },
+    {
+      "path": "data/qa/manual/certificat-casatorie.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c16a844836a3f867da20c13af140705b3b851c31",
+      "size": 4928,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/c16a844836a3f867da20c13af140705b3b851c31"
+    },
+    {
+      "path": "data/qa/manual/cine-esti-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3229a3161431ea239c3dd69d2aa0dcd82d903d75",
+      "size": 208,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/3229a3161431ea239c3dd69d2aa0dcd82d903d75"
+    },
+    {
+      "path": "data/qa/manual/cine-esti-01.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcbd6852953ef82202565ef32fe84f9f284636f6",
+      "size": 256,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/dcbd6852953ef82202565ef32fe84f9f284636f6"
+    },
+    {
+      "path": "data/qa/manual/cine-esti-02.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd2e38fc6055e2b2e4e91e554bef2195fd2accbb",
+      "size": 238,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/cd2e38fc6055e2b2e4e91e554bef2195fd2accbb"
+    },
+    {
+      "path": "data/qa/manual/cine-esti-03.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1ab4a59153f34847c81897e47890303b69a8a68",
+      "size": 232,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/a1ab4a59153f34847c81897e47890303b69a8a68"
+    },
+    {
+      "path": "data/qa/manual/licenta-02.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a26919eeb6e63aca9f67c1fbc18f4185203dc2e5",
+      "size": 4421,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/a26919eeb6e63aca9f67c1fbc18f4185203dc2e5"
+    },
+    {
+      "path": "data/qa/manual/licenta.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29e6701a2d417c9162c9e383b8ec3b149c0a56fc",
+      "size": 25523,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/29e6701a2d417c9162c9e383b8ec3b149c0a56fc"
+    },
+    {
+      "path": "data/qa/manual/nimic-02.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "322e3d042e681aed1785a6a81d096b732364eb1c",
+      "size": 184,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/322e3d042e681aed1785a6a81d096b732364eb1c"
+    },
+    {
+      "path": "data/qa/manual/nimic.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dac099909da96ecdbaec204632ac2a8ca75ecb46",
+      "size": 235,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/dac099909da96ecdbaec204632ac2a8ca75ecb46"
+    },
+    {
+      "path": "data/qa/manual/non-default-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4ff09372e49df6875ed2ed3a3fdfaf2f5d0be48",
+      "size": 207,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/c4ff09372e49df6875ed2ed3a3fdfaf2f5d0be48"
+    },
+    {
+      "path": "data/qa/manual/non-default-01.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4b58cece5834b4aa0da202774a6e71f286c3383",
+      "size": 177,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/b4b58cece5834b4aa0da202774a6e71f286c3383"
+    },
+    {
+      "path": "data/qa/manual/non-default-02.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed6d14349d5e60473ba6dc4c6766c5a3d50cb8ab",
+      "size": 244,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/ed6d14349d5e60473ba6dc4c6766c5a3d50cb8ab"
+    },
+    {
+      "path": "data/qa/manual/non-default-03.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "533e9ab1d0695121106b951d3ec0dd8d5dc0db8e",
+      "size": 288,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/533e9ab1d0695121106b951d3ec0dd8d5dc0db8e"
+    },
+    {
+      "path": "data/qa/manual/non-default-04.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d2870b04d0b4639e148dd098757b303622953a9",
+      "size": 214,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/6d2870b04d0b4639e148dd098757b303622953a9"
+    },
+    {
+      "path": "data/qa/manual/out-of-domain-01.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a99cb443cf50ce5f00c9a125f1b5d2f0b00cc10",
+      "size": 228,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/1a99cb443cf50ce5f00c9a125f1b5d2f0b00cc10"
+    },
+    {
+      "path": "data/qa/manual/out-of-domain-02.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ad1fbb5b5ccb6ae486ad4c95a0085871ca48c4e",
+      "size": 222,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/1ad1fbb5b5ccb6ae486ad4c95a0085871ca48c4e"
+    },
+    {
+      "path": "data/qa/manual/out-of-domain-03.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bae944cdb76380900d483a82102f87c672699b1c",
+      "size": 251,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/bae944cdb76380900d483a82102f87c672699b1c"
+    },
+    {
+      "path": "data/qa/manual/out-of-domain-04.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7465a3315b761fdf825f6007651a95f9b037db4",
+      "size": 799,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/c7465a3315b761fdf825f6007651a95f9b037db4"
+    },
+    {
+      "path": "data/qa/manual/out-of-domain-05.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aedcec3f0f09dcaaa100bc5ceed17fbf8ea342d1",
+      "size": 533,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/aedcec3f0f09dcaaa100bc5ceed17fbf8ea342d1"
+    },
+    {
+      "path": "data/qa/manual/out-of-domain-06.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d99b8e3c1b7872954838bc990662724bde0bddea",
+      "size": 609,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/d99b8e3c1b7872954838bc990662724bde0bddea"
+    },
+    {
+      "path": "data/qa/manual/pensie-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c936a0c868b4badee041b804b022776dd81028e4",
+      "size": 5258,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/c936a0c868b4badee041b804b022776dd81028e4"
+    },
+    {
+      "path": "data/qa/manual/pensie-01.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8f2c1cc4c51e2da59ec6f1992d7612e42b38696",
+      "size": 5543,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/b8f2c1cc4c51e2da59ec6f1992d7612e42b38696"
+    },
+    {
+      "path": "data/qa/manual/permis-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85dbe1ed5687aa9a11390c07438502a11d536710",
+      "size": 1973,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/85dbe1ed5687aa9a11390c07438502a11d536710"
+    },
+    {
+      "path": "data/qa/manual/permis-auto-00.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a62e0fe9dfc89b8dd7f7212085e583f58fafcd8",
+      "size": 6740,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/7a62e0fe9dfc89b8dd7f7212085e583f58fafcd8"
+    },
+    {
+      "path": "etl",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47cce9d770540c5ac7e37b47fd66c04d4801b55f",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/47cce9d770540c5ac7e37b47fd66c04d4801b55f"
+    },
+    {
+      "path": "etl/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25403a721f28950c8fb6c0023dcd3ca58eb61f32",
+      "size": 115,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/25403a721f28950c8fb6c0023dcd3ca58eb61f32"
+    },
+    {
+      "path": "etl/extract_raw_jsons_from_api.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "295beda31346a0fb853585707750503bca0881d4",
+      "size": 4838,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/295beda31346a0fb853585707750503bca0881d4"
+    },
+    {
+      "path": "etl/gen_doc_embeddings.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "121d80427f5135834da11240595148d0219d8a67",
+      "size": 1163,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/121d80427f5135834da11240595148d0219d8a67"
+    },
+    {
+      "path": "etl/gen_docs_from_raw_jsons.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1d0441f975c18d39fcc48ebb8b3c98deb8d120c",
+      "size": 10589,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f1d0441f975c18d39fcc48ebb8b3c98deb8d120c"
+    },
+    {
+      "path": "etl/gen_qa_manual.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fa87d48bc8c1d2134ebeb4f72b910877e077c22",
+      "size": 1004,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/3fa87d48bc8c1d2134ebeb4f72b910877e077c22"
+    },
+    {
+      "path": "etl/gen_qa_template.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c55cce32e4a541f391757b3c779b85815ade2cc",
+      "size": 4242,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/8c55cce32e4a541f391757b3c779b85815ade2cc"
+    },
+    {
+      "path": "etl/gen_summarized_docs.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2c7a388ad5e018444f3d5336cddcd34739fe3d9",
+      "size": 2108,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f2c7a388ad5e018444f3d5336cddcd34739fe3d9"
+    },
+    {
+      "path": "etl/save_embs_to_chroma.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e1b20b4d3cbd881b055fd6038b2277225bc3f22",
+      "size": 1909,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/9e1b20b4d3cbd881b055fd6038b2277225bc3f22"
+    },
+    {
+      "path": "etl/tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "215e5252f9575418bc344d270f1afd225e628cf5",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/215e5252f9575418bc344d270f1afd225e628cf5"
+    },
+    {
+      "path": "etl/tests/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "etl/tests/test_chroma.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69a64ef5b5568b8b6e5e068faa2a081734e435d5",
+      "size": 2227,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/69a64ef5b5568b8b6e5e068faa2a081734e435d5"
+    },
+    {
+      "path": "etl/tests/test_extract_raw_jsons_from_api.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1233573d36cea47429fa82e9a257fd7602ebbab5",
+      "size": 250,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/1233573d36cea47429fa82e9a257fd7602ebbab5"
+    },
+    {
+      "path": "etl/tests/test_gen_docs_from_raw_jsons.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31a5460bc22c3d49d05a0e9a9c2b8e2c3decc735",
+      "size": 998,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/31a5460bc22c3d49d05a0e9a9c2b8e2c3decc735"
+    },
+    {
+      "path": "etl/tests/test_gen_embedding.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "117d2cb03850994406e5276733ff8f4899e96bc0",
+      "size": 305,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/117d2cb03850994406e5276733ff8f4899e96bc0"
+    },
+    {
+      "path": "finetune",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8f0f4d0c62c52170c4cf86134a1740f4275da2a7",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/8f0f4d0c62c52170c4cf86134a1740f4275da2a7"
+    },
+    {
+      "path": "finetune/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "finetune/fine_tune.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c7f8fdeeba3ebdd1d983e02ce15881a53c65865",
+      "size": 1317,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/7c7f8fdeeba3ebdd1d983e02ce15881a53c65865"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bffc19c3bbf24aa6e5bf7af8b8a47372bd73a41",
+      "size": 193,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/0bffc19c3bbf24aa6e5bf7af8b8a47372bd73a41"
+    },
+    {
+      "path": "vdb",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c7ef1722347c89c31f5e7e540f61328de078c302",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/c7ef1722347c89c31f5e7e540f61328de078c302"
+    },
+    {
+      "path": "vdb/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25403a721f28950c8fb6c0023dcd3ca58eb61f32",
+      "size": 115,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/25403a721f28950c8fb6c0023dcd3ca58eb61f32"
+    },
+    {
+      "path": "vdb/chroma.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c62254ccefc9c1900f2104d429e156570b050a3",
+      "size": 1806,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/8c62254ccefc9c1900f2104d429e156570b050a3"
+    },
+    {
+      "path": "web",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa9cf60dd5e83de1e8463d331f2ce8acd5eb284f",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/aa9cf60dd5e83de1e8463d331f2ce8acd5eb284f"
+    },
+    {
+      "path": "web/.eslintrc.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6c953795300e4256c76542d6bb0fe06f08b5ad6",
+      "size": 436,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/d6c953795300e4256c76542d6bb0fe06f08b5ad6"
+    },
+    {
+      "path": "web/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "size": 253,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/a547bf36d8d11a4f89c59c144f24795749086dd1"
+    },
+    {
+      "path": "web/dev-dist",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a3d6d4a8a7c31371396f3dee7d2927af6ada511f",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/a3d6d4a8a7c31371396f3dee7d2927af6ada511f"
+    },
+    {
+      "path": "web/dev-dist/registerSW.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d5625f45c056309d55137f70cd4ce4fe52f478d",
+      "size": 119,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/1d5625f45c056309d55137f70cd4ce4fe52f478d"
+    },
+    {
+      "path": "web/dev-dist/sw.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad8ce412101eb32ff62efda04de5e058e91b78b8",
+      "size": 2839,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/ad8ce412101eb32ff62efda04de5e058e91b78b8"
+    },
+    {
+      "path": "web/dev-dist/workbox-296dd616.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62f106ffc370d0c86148cd707cf8394d2c41d359",
+      "size": 129263,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/62f106ffc370d0c86148cd707cf8394d2c41d359"
+    },
+    {
+      "path": "web/dev-dist/workbox-5357ef54.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62f106ffc370d0c86148cd707cf8394d2c41d359",
+      "size": 129263,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/62f106ffc370d0c86148cd707cf8394d2c41d359"
+    },
+    {
+      "path": "web/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5ecb48602ff6e93dbae09f176f0b3c39abdbf75",
+      "size": 377,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f5ecb48602ff6e93dbae09f176f0b3c39abdbf75"
+    },
+    {
+      "path": "web/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a3ab645ce689a0553f424144838f2d6042332c5",
+      "size": 1007,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/9a3ab645ce689a0553f424144838f2d6042332c5"
+    },
+    {
+      "path": "web/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "557b37c44d5cb352ff331f90e7fba0189cdfa65e",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/557b37c44d5cb352ff331f90e7fba0189cdfa65e"
+    },
+    {
+      "path": "web/public/vite.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7b8dfb1b2a60bd50538bec9f876511b9cac21e3",
+      "size": 1497,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e7b8dfb1b2a60bd50538bec9f876511b9cac21e3"
+    },
+    {
+      "path": "web/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dc067192c60c956338cd2f9bf632e3bf5481fa26",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/dc067192c60c956338cd2f9bf632e3bf5481fa26"
+    },
+    {
+      "path": "web/src/App.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9d355df2a5956b526c004531b7b0ffe412461e0",
+      "size": 606,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/b9d355df2a5956b526c004531b7b0ffe412461e0"
+    },
+    {
+      "path": "web/src/App.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ced4f8f557e54bd1233230a20fcc989b7a6fa922",
+      "size": 171,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/ced4f8f557e54bd1233230a20fcc989b7a6fa922"
+    },
+    {
+      "path": "web/src/__mocks__",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4d7cf1e32bc8294eaf657169ee83568d6b579d57",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/4d7cf1e32bc8294eaf657169ee83568d6b579d57"
+    },
+    {
+      "path": "web/src/__mocks__/root-api.mocks.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c1ba891fb1b2f740b5ed4f412b8d6a950e7c2a0",
+      "size": 771,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/3c1ba891fb1b2f740b5ed4f412b8d6a950e7c2a0"
+    },
+    {
+      "path": "web/src/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "94c0b2fc152a086447a04f62793957235d2475be",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/94c0b2fc152a086447a04f62793957235d2475be"
+    },
+    {
+      "path": "web/src/assets/react.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c87de9bb3358469122cc991d5cf578927246184",
+      "size": 4126,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/6c87de9bb3358469122cc991d5cf578927246184"
+    },
+    {
+      "path": "web/src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "390debc4771402ff2718d4ce2f1db4e5336c740c",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/390debc4771402ff2718d4ce2f1db4e5336c740c"
+    },
+    {
+      "path": "web/src/components/Chatbot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c07811ac1b8a8f6cd6495102833200bd2c40a7c3",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/c07811ac1b8a8f6cd6495102833200bd2c40a7c3"
+    },
+    {
+      "path": "web/src/components/Chatbot/Chatbot.styles.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f58aa3b1ecfeb035cf558bdb5275390fde1fc0e",
+      "size": 80,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/7f58aa3b1ecfeb035cf558bdb5275390fde1fc0e"
+    },
+    {
+      "path": "web/src/components/Chatbot/Chatbot.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8e120d5ae8951b13fd2db9afc2c4c7bb7f06d2e",
+      "size": 776,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/e8e120d5ae8951b13fd2db9afc2c4c7bb7f06d2e"
+    },
+    {
+      "path": "web/src/components/Chatbot/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dadb4934eea5fa8a6ef74eddd50c7f3404e6b07",
+      "size": 39,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/9dadb4934eea5fa8a6ef74eddd50c7f3404e6b07"
+    },
+    {
+      "path": "web/src/components/ChatbotOptions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77bd46aa4b299af97101c11525ed19383b842ce9",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/77bd46aa4b299af97101c11525ed19383b842ce9"
+    },
+    {
+      "path": "web/src/components/ChatbotOptions/ChatbotOptions.module.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "184474362da1042c4589a5f84505318f8f316522",
+      "size": 519,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/184474362da1042c4589a5f84505318f8f316522"
+    },
+    {
+      "path": "web/src/components/ChatbotOptions/ChatbotOptions.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98b901254982a8bf2aeded493ba4b39dc590c916",
+      "size": 812,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/98b901254982a8bf2aeded493ba4b39dc590c916"
+    },
+    {
+      "path": "web/src/components/ChatbotOptions/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b446a828872106a2bc8f0a7ac7396fe6eaf201f2",
+      "size": 48,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/b446a828872106a2bc8f0a7ac7396fe6eaf201f2"
+    },
+    {
+      "path": "web/src/components/Markdown",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "273452e49bc7e64645d576a8754cb3b7a193b4a0",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/273452e49bc7e64645d576a8754cb3b7a193b4a0"
+    },
+    {
+      "path": "web/src/components/Markdown/Markdown.module.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d54cf72ff06c42bf4a555913127f5735e8ec4fd",
+      "size": 2715,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/7d54cf72ff06c42bf4a555913127f5735e8ec4fd"
+    },
+    {
+      "path": "web/src/components/Markdown/Markdown.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fec54761db028f65af8d5af1e8d870861c7cc4f7",
+      "size": 418,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/fec54761db028f65af8d5af1e8d870861c7cc4f7"
+    },
+    {
+      "path": "web/src/components/Markdown/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffa16af33461949aa2722fe3e25f6925665ec78d",
+      "size": 42,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/ffa16af33461949aa2722fe3e25f6925665ec78d"
+    },
+    {
+      "path": "web/src/config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23da0893c3232ffa5597870f3dd4836ae5c7cb37",
+      "size": 119,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/23da0893c3232ffa5597870f3dd4836ae5c7cb37"
+    },
+    {
+      "path": "web/src/containers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2cc1d8c6af547740b111eea17831ef602d3c022b",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/2cc1d8c6af547740b111eea17831ef602d3c022b"
+    },
+    {
+      "path": "web/src/containers/ChatbotContainer.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2db62350d530d6fb4f7b40a53f90d8b265798823",
+      "size": 293,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/2db62350d530d6fb4f7b40a53f90d8b265798823"
+    },
+    {
+      "path": "web/src/containers/ChatbotFetchResponseContainer.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5b629b6ee4801d6603984f880e7744a9b440103",
+      "size": 2463,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f5b629b6ee4801d6603984f880e7744a9b440103"
+    },
+    {
+      "path": "web/src/hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "68361562390d721ae4932496543b5258e55a8748",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/68361562390d721ae4932496543b5258e55a8748"
+    },
+    {
+      "path": "web/src/hooks/useChatbotSteps.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab72afa73e82a8e5d16208a8fcb3b32ee67c7a79",
+      "size": 1075,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/ab72afa73e82a8e5d16208a8fcb3b32ee67c7a79"
+    },
+    {
+      "path": "web/src/hooks/useFetchPost.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8615bb2458db2752f1031fc891719b4f94803a0e",
+      "size": 1671,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/8615bb2458db2752f1031fc891719b4f94803a0e"
+    },
+    {
+      "path": "web/src/index.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14dbe391ee51aa41dd612c50044eafcd120975a3",
+      "size": 434,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/14dbe391ee51aa41dd612c50044eafcd120975a3"
+    },
+    {
+      "path": "web/src/main.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c225c55a47a0dcc8e0e58b8562b946b569cee7e2",
+      "size": 219,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/c225c55a47a0dcc8e0e58b8562b946b569cee7e2"
+    },
+    {
+      "path": "web/src/types",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "28d045ed1189f74e0224dbbb4d0eb522674a5082",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/28d045ed1189f74e0224dbbb4d0eb522674a5082"
+    },
+    {
+      "path": "web/src/types/chatbot.types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dafb4b7b747ee19a5ee4fa44f852700310872c74",
+      "size": 393,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/dafb4b7b747ee19a5ee4fa44f852700310872c74"
+    },
+    {
+      "path": "web/src/types/typings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "84f2a7dd2388b339a0dad9caa56504da517f3ebf",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/84f2a7dd2388b339a0dad9caa56504da517f3ebf"
+    },
+    {
+      "path": "web/src/types/typings/react-simple-chatbot.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f832c823d33043e41dce5136dd2b0b73f5b99493",
+      "size": 38,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/f832c823d33043e41dce5136dd2b0b73f5b99493"
+    },
+    {
+      "path": "web/src/utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65ca654b53260fbef29a7734a4fc4fc49cbb61cb",
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/trees/65ca654b53260fbef29a7734a4fc4fc49cbb61cb"
+    },
+    {
+      "path": "web/src/utils/fetcher.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e3b6ae175704384756e35b05eb941bc25bf4b49",
+      "size": 121,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/2e3b6ae175704384756e35b05eb941bc25bf4b49"
+    },
+    {
+      "path": "web/src/vite-env.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size": 38,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32"
+    },
+    {
+      "path": "web/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "042d77c4dfdf624aa0a2320a37597d735f762ee3",
+      "size": 606,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/042d77c4dfdf624aa0a2320a37597d735f762ee3"
+    },
+    {
+      "path": "web/tsconfig.node.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42872c59f5b01c9155864572bc2fbd5833a7406c",
+      "size": 213,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/42872c59f5b01c9155864572bc2fbd5833a7406c"
+    },
+    {
+      "path": "web/vite.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "caaa7622252efbb2b8be71d559b0180538147def",
+      "size": 513,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/caaa7622252efbb2b8be71d559b0180538147def"
+    },
+    {
+      "path": "web/yarn.lock",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2b56b32bdc54b04050aa75aadb4991c06b6ffc7",
+      "size": 268717,
+      "url": "https://api.github.com/repos/nicolaivicol/chat-own-docs-ft-rag/git/blobs/c2b56b32bdc54b04050aa75aadb4991c06b6ffc7"
+    }
+  ],
+  "truncated": false
+}

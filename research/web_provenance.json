@@ -1,0 +1,672 @@
+{
+  "date": "2026-09-05",
+  "note": "Partial preservation of native source metadata across resumed turns; not an exhaustive tool transcript. User-facing source ledger is sources.md.",
+  "records": [
+    {
+      "batch": "discovery",
+      "source_line": "DEEPTECHGIGAHACK BRINGS NEW DIGITAL EGOV SOLUTIONS | Government of Republic of Moldova (https://www.egov.md/en/node/40051)",
+      "native_reference": "turn0search0",
+      "metadata": "[wordlim: 200] Published: 3.0 years ago; Crawled: 2 months ago; ## DEEPTECHGIGAHACK BRINGS NEW DIGITAL EGOV SOLUTIONS ... Byte Hackers, 7301, busGO, Kodeson and GovernMental Hackswere the five teams that competed in the GovTech category. ... More information about DeepTech GigaHack is available at gigahack.md."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "DeeptechGigaHack aduce soluții digitale noi în domeniul eGov | Agenția de Guvernare Electronică (https://egov.md/ro/node/40041)",
+      "native_reference": "turn0search1",
+      "metadata": "[wordlim: 200] Published: 3.0 years ago; Crawled: last month; ## DeeptechGigaHack aduce soluții digitale noi în domeniul eGov ... La categoria GovTech au concurat 5 echipe: Byte Hackers, 7301, busGO, Kodeson, GovernMental Hacks. ... Mai multe informații pot fi vizualizate pe pagina gigahack.md."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "DeepTech GigaHack 2025: inovație, energie și creativitate (https://eu4moldova.eu/wp-content/uploads/2025/10/Newsletter_July-%E2%80%93-September-2025_Ro_updated-compressed.pdf)",
+      "native_reference": "turn0search12",
+      "metadata": "[wordlim: 200] Crawled: 10 months ago; Fotografie de grup de la DeepTech GigaHack: numeroși participanți și organizatori stau pe scenă în fața unui ecran mare cu textul „DEEPTECH GigaHack”; se văd bannere, lumini verzi și oameni ținând panouri/afișe de echipă. ... În total, 44 de echipe s-au înscris în competiție, iar 8 dintre ele au reușit să impresioneze juriul și să plece acasă cu titlul de câștigători. ... Deeptech GigaHack 2025 a fost organizat de către Technovator, cu susținerea EU4Innovation East, un proiect regional finanțat de Uniunea Europeană, co-finanțat de Guvernul Franței și implementat de Expertise France, Ukraine-Moldova American Enterprise Fund (UMAEF), PNUD Moldova și Guvernul Italiei, și programul Innovate Moldova, finanțat de Suedia."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "DEEPTECHGIGAHACK ПРЕДЛАГАЕТ НОВЫЕ ЦИФРОВЫЕ УСЛУГИ В ОБЛАСТИ Е-УПРАВЛЕНИЯ | Правительство Республики Молдова (https://egov.md/ru/node/40064)",
+      "native_reference": "turn0search2",
+      "metadata": "[wordlim: 200] Published: 3.0 years ago; Crawled: last month; В категории GovTech состязались пять команд: ByteHackers, 7301, busGO, Kodeson, GovernMentalHacks. ... Больше информации можно найти на странице  gigahack.md."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "ประกาศผลทีมที่ผ่านเข้าสู่รอบ Final Round! | GISTDA สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) (https://www.gistda.or.th/news_view_new.php?n_id=9520)",
+      "native_reference": "turn0search3",
+      "metadata": "[wordlim: 200] Published: last week; Crawled: last week; ขอแสดงความยินดีกับ 12 ทีมที่ผ่านการคัดเลือกเข้าสู่รอบ Final Round ของการแข่งขัน GeoHackathon 2026: Pixel to Policy – Unlocking Insights, Accelerating Impact"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Primul hackathon guvernamental TechBridge și-a desemnat câștigătorii | Agenția de Guvernare Electronică (https://www.egov.md/ro/node/39907)",
+      "native_reference": "turn0search4",
+      "metadata": "[wordlim: 200] Published: 3.3 years ago; Crawled: 2 months ago; 2023-05-21 10:57 ... Peste 40 de participanți ai hackathon-ului au avut parte de sesiuni de mentorat pe tot parcursul hackatonului din partea experților în domeniul digitalizării serviciilor guvernamentale, precum și de un workshop dedicat ecosistemului de e-guvernare din Republica Moldova, care a fost prezentat de Iurie Țurcanu, ex-viceprim-ministru pentru digitalizare al Republicii Moldova, Igor Bercu, șef Direcție platforme digitale, Vadim Vintilă, consultant juridic și Valeriu Poia, manager proiect, în cadrul AGE. ... - Soluție digitală pentru căutarea informației pe site-uri guvernamentale (chatbot)"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "OmegaHack | Innovación universitaria aplicada desde Medellín (https://www.omegahack.com/)",
+      "native_reference": "turn0search5",
+      "metadata": "[wordlim: 200] Crawled: today; Edición 2026 finalizada"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "HacktheGap'26 Rulebook | PDF | Surveillance | Closed Circuit Television (https://www.scribd.com/document/1016379025/HacktheGap-26-Rulebook)",
+      "native_reference": "turn0search6",
+      "metadata": "[wordlim: 200] Crawled: 5 months ago; Teams must adhere to guidelines regarding project originality, technical rules, and evaluation criteria set by the organizing committee. ... ## Hack-The-Gap 2026 – Guidelines & Structure ... ●​ The organizing team retains full authority over rule enforcement and event conduct."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Uncategorized - Gigahack (https://gigahack.md/category/uncategorized/)",
+      "native_reference": "turn0search7",
+      "metadata": "[wordlim: 200] Crawled: today;     * 2023 Edition"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "ПЕРВЫЙ ПРАВИТЕЛЬСТВЕННЫЙ ХАКАТОН TECHBRIDGE НАЗВАЛ СВОИХ ПОБЕДИТЕЛЕЙ | Правительство Республики Молдова (https://www.egov.md/ru/node/39936)",
+      "native_reference": "turn0search8",
+      "metadata": "[wordlim: 200] Published: 3.3 years ago; Crawled: 3 months ago; 2023-05-21 09:34 ... Он проходил 19-20 мая 2023 года в Яссах. ... - Цифровое решение для проведения в режиме онлайн процесса публичной поддержки (опубликование, дебаты и подписание) гражданских инициатив/коллективных петиций"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "GigaHack Mentor Team = Dream Team 🥰 Introducing some incredible mentors who are here to supercharge your hackathon experience: 👤 Dan Marculescu, the mastermind behind Footprints AI, who's on a… | GigaHack (https://www.linkedin.com/posts/gigahack_gigahack-mentor-team-dream-team-introducing-activity-7244744664136720384-4FZa)",
+      "native_reference": "turn0search9",
+      "metadata": "[wordlim: 200] Crawled: last month; # GigaHack’s Post"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Resultados GIGA no Counter-Strike - Mais Esports (https://maisesports.com.br/times/giga/resultados)",
+      "native_reference": "turn0search10",
+      "metadata": "[wordlim: 200] Crawled: 5 months ago; segunda-feira - 5 agosto 2024"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Medhack: Frontiers | Kaggle (https://www.kaggle.com/competitions/medhack-frontiers)",
+      "native_reference": "turn0search11",
+      "metadata": "[wordlim: 200] Published: 6 months ago; Crawled: 5 days ago; Overview Data Code Models Discussion Leaderboard Rules ...   * We even have a treasure chest of old patient notes from previous cases—random scribbles, exam findings, “Patient complained of headache after eating 40 cookies,” etc. ... # What’s the Actual Challenge? ... Medhack: Frontiers. https://kaggle.com/competitions/medhack-frontiers, 2026."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "<table id=\"e1\"> (https://www.egov.md/sites/default/files/document/attachments/raport_2023_age_merged_1.pdf)",
+      "native_reference": "turn0search13",
+      "metadata": "[wordlim: 200] Crawled: 2.2 years ago; <table id=\"e1\"> ... <td><b>Realizat.</b><br><i>(pentru activitățile planificate în 2023)</i><br>În cadrul proiectului EU Cybersecurity Rapid Assistance a fost elaborat proiectul documentului “Set of minimal security-related requirements for ICT products that are mapped and aligned with national and international standards on cybersecurity framework”, pe marginea căruia a fost elaborat și prezentat feedback spre ajustare în conformitate cu obiectiile formulate.</td>"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Triển khai tổ chức Cuộc thi Data for life mùa 3 với chủ đề “Hack for Growth 2025” (https://www.hsgs.edu.vn/vi/danh-cho-hoc-sinh/thong-bao/2162-trien-khai-to-chuc-cuoc-thi-data-for-life-mua-3-voi-chu-de-hack-for-growth-2025?format=pdf)",
+      "native_reference": "turn0search14",
+      "metadata": "[wordlim: 200] Published: 10 months ago; Triển khai tổ chức Cuộc thi Data for life mùa 3 với chủ đề “Hack for Growth 2025” ... và linh hoạt thích ứng với định hướng chuyển đổi số theo Nghị quyết số 57-NQ/TW ngày22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Thứ Ba, 29/7/2025 (https://media.baoquangninh.vn/upload/epaper/pages/38615/file/ngay_29_v2_21280028072025.pdf)",
+      "native_reference": "turn0search15",
+      "metadata": "[wordlim: 200] Published: 1.1 years ago; Crawled: 1.1 years ago; Chiều 27/7, khán giả ngồi kín các khán đài để cổ vũ cầu thủ 2 đội Thái Lan và Việt Nam tại trận chung kết đồng đội 4 người nữ ở giải vô địch thế giới 2025 (King’s Cup 2025). ... Phút 57, một tình huống va chạm đã khiến các cầu thủ hai đội lao vào nhau và trọng tài đã rút thẻ vàng cho cầu thủ Bùi Minh Thuận của TP.HCM và Phan Ngọc Tín của HAGL 1, trận đấu đó cũng phải tạm dừng mất 5 phút mới có thể thi đấu trở lại."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "<visual_element id=\"e1\"> (https://egov.md/sites/default/files/document/attachments/ghid_ro_2023.pdf)",
+      "native_reference": "turn0search16",
+      "metadata": "[wordlim: 200] Published: 2.8 years ago; <visual_element id=\"e1\"> ... On the right white vertical margin, large outlined vertical letters read “G H I D”."
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Agenția de Guvernare Electronic (https://www.egov.md/sites/default/files/document/attachments/plan_general_achizitii_tic_2025.semnat.semnat.pdf)",
+      "native_reference": "turn0search17",
+      "metadata": "[wordlim: 200] Published: 4 months ago; Nr. d/o None | Cod CPV (pct.13 din Ghidul Practic) | Expunerea obiectului de achiziţie (pct.18, 21,22,23 din Ghidul Practic) (Se efectuează descrierea succintă a obiectului contractelor de achiziţii publice (descrierea succintă a obiectului procedurilor de achiziţie publică) care urmează a fi realizate pe parcursul anului) None | Specificațiile (parametrii) tehnice principale pentru bunuri /tipurile de servicii/sarcini/activități solicitate pentru mentenanță/dezvoltare SI None | Procedura de achiziţie aplicabilă (Se identifică în conformitate cu Legea nr.131/ 2015 privind achiziţiile publice) None | Procedura de achiziţie aplicabilă pentru achizițiile TIC finanțate din surse externe None | Perioada desfăşurării procedurii de achiziţie (Se stabileşte perioada (luna) a anului în care va fi efectuată această procedură) None | Valoarea estimată fără TVA (lei) None | Justificarea necesității/oportunitatea achiziției TIC corelat cu costul estimat None --- | --- | --- | --- | --- | --- | --- | --- | --- Nr. d/o 1 | Cod CPV (pct.13 din Ghidul Practic) 2 | Expunerea obiectului de achiziţie (pct.18, 21,22,23 din Ghidul Practic) (Se efectuează descrierea succintă a obiectului contractelor de achiziţii publice (descrierea succintă a obiectului procedurilor de achiziţie publică) care urmează a fi realizate pe parcursul anului) 3 | Specificațiile (parametrii) tehnice principale pentru bunuri /tipurile de servicii/sarcini/activități solicitate pentru mentenanță/dezvoltare SI 4 | Procedura de achiziţie aplicabilă (Se identifică în conformitate cu Legea nr.131/ 2015 privind achiziţiile publice) 5 | Procedura de achiziţie aplicabilă pentru achizițiile TIC finanțate din surse externe 6 | Perioada desfăşurării procedurii de achiziţie (Se stabileşte perioada (luna) a anului în care va fi efectuată această procedură) 7 | Valoarea estimată fără TVA (lei) 8 | Justificarea necesității/oportunitatea achiziției TIC corelat cu costul estimat 8 Nr. ... Modulele SAM trebuie să suporte controlul accesului bazat pe roluri (RBAC), API-uri securizate pentru integrare și capacități de audit pentru a respecta standardele de conformitate eIDAS. ... Acordul de finanțare a MGSP a fost ratificat prin Legea 25/2018 (https://www.legis.md/cautare/getResults?"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "DeepTech GigaHack 2026 - Moldova's Largest Hackathon (https://gigahack.md/)",
+      "native_reference": "turn0view0",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://gigahack.md/\",\"lineno\":null}); Total lines: 458"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Internal Error ()",
+      "native_reference": "turn0view1",
+      "metadata": "[wordlim: 200] Source: open({\"ref_id\":\"https://gigahack.md/agenda/\",\"lineno\":null}); Total lines: 1"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "Deeptech GigaHack 2026 – Tekwill, Chisinau — iTicket (https://iticket.md/event/deeptech-gigahack-2026)",
+      "native_reference": "turn0view2",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://iticket.md/event/deeptech-gigahack-2026\",\"lineno\":null}); Total lines: 129"
+    },
+    {
+      "batch": "discovery",
+      "source_line": "DeepTech GigaHack 2025: Innovation Hackathon in Moldova Gigahack (https://old.gigahack.md/)",
+      "native_reference": "turn0view3",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://old.gigahack.md/\",\"lineno\":null}); Total lines: 304"
+    },
+    {
+      "batch": "official_initial",
+      "source_line": "DeepTech GigaHack 2026 - Moldova's Largest Hackathon (https://gigahack.md/)",
+      "native_reference": "turn8view0",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn0view0\",\"lineno\":30}); Total lines: 458"
+    },
+    {
+      "batch": "official_initial",
+      "source_line": "Deeptech GigaHack 2026 – Tekwill, Chisinau — iTicket (https://iticket.md/event/deeptech-gigahack-2026)",
+      "native_reference": "turn8view1",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn0view2\",\"lineno\":30}); Total lines: 129"
+    },
+    {
+      "batch": "official_initial",
+      "source_line": "DeepTech GigaHack 2025: Innovation Hackathon in Moldova Gigahack (https://old.gigahack.md/)",
+      "native_reference": "turn8view2",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn0view3\",\"lineno\":40}); Total lines: 304"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Yep!Moldova | LinkedIn (https://md.linkedin.com/company/yepmoldova)",
+      "native_reference": "turn21search0",
+      "metadata": "[wordlim: 200] Crawled: yesterday; Only one month left until Deeptech GigaHack 2026!🧑💻 If you've been thinking about joining and were waiting for a sign, here it is 🫵 Our friends at Technovator are bringing back Deeptech GigaHack on September 25–27, and they've already confirmed the first challenges from Orange Systems (AI) and Medpark International Hospital (HealthTech)."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Vitalii Solomaha - Orange | LinkedIn (https://md.linkedin.com/in/vitaliisolomaha)",
+      "native_reference": "turn21search1",
+      "metadata": "[wordlim: 200] Crawled: 5 days ago; Excited to share that Orange Systems is joining Deeptech GigaHack 2026 as a Challenge Provider!"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Serghei Cupnii - Simpals | LinkedIn (https://md.linkedin.com/in/serghei-cupnii-811342177)",
+      "native_reference": "turn21search2",
+      "metadata": "[wordlim: 200] Crawled: last month; Excited to share that Orange Systems is joining Deeptech GigaHack 2026 as a Challenge Provider!"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "DeepTech GigaHack 2026 - Moldova's Largest Hackathon (https://gigahack.md/)",
+      "native_reference": "turn21search3",
+      "metadata": "[wordlim: 200] Crawled: yesterday; Join GigaHack 2026 remotely - work on a real challenge, collaborate with your team, and pitch your solution from anywhere in the world."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "International Applications - Gigahack (https://gigahack.md/international-applications/)",
+      "native_reference": "turn21search4",
+      "metadata": "[wordlim: 200] Crawled: yesterday; DeepTech GigaHack 2026 is organized by Technovator, with the support of EU4Innovation East, a regional project funded by the European Union, co-funded by the Government of France, and implemented by Expertise France, the Ukraine-Moldova American Enterprise Fund (UMAEF), and the Innovate Moldova Programme, funded by Sweden and the United Kingdom."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Servicii Catering – Deeptech Gigahack 2026 - CIVIC.MD - ONG-uri, anunțuri, angajări, granturi și inițiative civice din Moldova (https://civic.md/anunturi/achizitii/89684-servicii-catering-deeptech-gigahack-2026.html)",
+      "native_reference": "turn21search5",
+      "metadata": "[wordlim: 200] Published: 3 months ago; Crawled: 4 days ago; Echipa Deeptech Gigahack anunță deschiderea procesului de selecție pentru partenerul de catering al ediției 2026. ...   * Subiect: [Ofertă Catering Gigahack 2026] – [Nume Companie]"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Phillip M. Sparks – ICanDo52 Incubators | LinkedIn (https://de.linkedin.com/in/phillip-m-sparks-7ab824)",
+      "native_reference": "turn21search6",
+      "metadata": "[wordlim: 200] Crawled: last month;   * We are proud to announce that the AI Challenge Provider for Deeptech GigaHack 2026 is Orange Systems 🟠 Orange Moldova At Orange Systems, the best…"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Moldova Innovation Technology Park - Estadísticas y analítica del canal de Telegram @mitpmd (https://telemetr.io/es/channels/1727255311-mitpmd/posts?cursor=ICg%3D)",
+      "native_reference": "turn21search7",
+      "metadata": "[wordlim: 200] Crawled: 3 days ago; MITP is a proud Partner of Deeptech GigaHack 2026! ... Confirmed Industry Challenges: First tracks feature Orange Systems (AI), Medpark International Hospital (HealthTech), and UNDP Moldova (EnergyTech). ... 🏆 Prizes: Up to 30,000 MDL per challenge track 🧠 Mentorship: Direct guidance from industry-leading experts 🔬 Post-Event Growth: Incubation programs for top selected teams Whether you are competing solo or coming with your team, secure your spot today!"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Deeptech GigaHack 2026 - Conferințe - Chișinău (https://www.fest.md/ro/evenimente/conferinte/deeptech-gigahack-2026)",
+      "native_reference": "turn21search8",
+      "metadata": "[wordlim: 200] Crawled: 6 days ago; DeepTech GigaHack 2026: trei zile, zece provocări reale, sute de minți curioase din tech, cercetare și business — împreună, construind soluții care contează."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Deeptech GigaHack returns for its fourth edition with online participation for the first time, and a new visual identity - Technovator (https://technovator.world/deeptech-gigahack-returns-for-its-fourth-edition-with-online-participation-for-the-first-time-and-a-new-visual-identity/)",
+      "native_reference": "turn21search9",
+      "metadata": "[wordlim: 200] Published: 3 weeks ago; Crawled: last week; Every GigaHack edition is defined by the quality of its challenges – and 2026 is no exception.Orange Systems brings an AI challenge based on a real problem from their day-to-day operations. ... Medpark International Hospital, the most digitalized hospital in the region and holder of Level 6 on the HIMSS scale, comes with a HealthTech challenge."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Solicitare de ofertă: Servicii de amenajare tehnică — DeepTech GigaHack 2026 - Technovator (https://technovator.world/solicitare-de-oferta-servicii-de-amenajare-tehnica-deeptech-gigahack-2026/)",
+      "native_reference": "turn21search10",
+      "metadata": "[wordlim: 200] Published: 4 months ago; Crawled: 2 weeks ago; Technovator este în căutarea unui partener strategic pentru Deeptech GigaHack 2026 — cel mai mare hackathon de tehnologie din Moldova. ... Subiectul e-mailului: Ofertă servicii de amenajare tehnică_DeepTech GigaHack 2026 – [Numele Companiei]"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Deeptech GigaHack 2026 lansează Call for Challenges — companiile și instituțiile din R. Moldova sunt invitate să propună provocări reale | ZUGO (https://zugo.md/toate-stirile/deeptech-gigahack-2026-lanseaza-call-for-challenges-companiile-si-institutiile-din-r-moldova-sunt-invitate-sa-propuna-provocari-reale/252072/toate-stirile)",
+      "native_reference": "turn21search11",
+      "metadata": "[wordlim: 200] Published: 3 months ago; Crawled: 4 days ago; Deeptech GigaHack 2026 va cuprinde 10 challenge-uri din domeniile cheie ale deeptech-ului: AI/ML, Cybersecurity, Energy Tech, HealthTech, FinTech, AgriFood, RegTech, GovTech, Biotech și Open Challenge. ... În edițiile anterioare ale Deeptech GigaHack, printre Challenge Providers s-au numărat Orange Systems, Orbility, Beden Grup & InVitro Diagnostics, Agenția de Guvernare Electronică, EIT Food, Fineguide.ai și Banca Națională a Moldovei — fiecare primind soluții prototip construite de echipele concurente în mai puțin de 72 de ore."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "technovator-raport 25 (https://technovator.world/wp-content/uploads/2025/12/technovator-raport-25.pdf)",
+      "native_reference": "turn21search12",
+      "metadata": "[wordlim: 200] Published: 8 months ago; The Focus for 2026 ... We will continue with the fourth edition of the Deeptech GigaHack, establish a DeepTech Academy and Mentorship program, and foster collaborations between researchers, startups and businesses."
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Deeptech Gigahack 2026 - Technovator (https://technovator.world/events/gigahack/)",
+      "native_reference": "turn21view0",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: click({\"ref_id\":\"turn14view2\",\"id\":13}); Total lines: 183"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "Terms and Conditions - Technovator (https://technovator.world/terms-and-conditions/)",
+      "native_reference": "turn21view1",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: click({\"ref_id\":\"turn14view2\",\"id\":19}); Total lines: 164"
+    },
+    {
+      "batch": "2026queries",
+      "source_line": "International Applications - Gigahack (https://gigahack.md/international-applications/)",
+      "native_reference": "turn21view2",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: click({\"ref_id\":\"turn0view0\",\"id\":0}); Total lines: 121"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "DeepTech GigaHack 2026 - Moldova's Largest Hackathon (https://gigahack.md/)",
+      "native_reference": "turn43search0",
+      "metadata": "[wordlim: 200] Crawled: yesterday; Join GigaHack 2026 remotely - work on a real challenge, collaborate with your team, and pitch your solution from anywhere in the world."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "International Applications - Gigahack (https://gigahack.md/international-applications/)",
+      "native_reference": "turn43search1",
+      "metadata": "[wordlim: 200] Crawled: yesterday; Taking place on September 25-27, 2026, in Chișinău, Deeptech Gigahack is a 48-hour innovation sprint that brings together researchers, engineers, software developers, entrepreneurs and technology enthusiasts to collaborate on solutions addressing real-world challenges."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Healthcare Information and Management Systems Society | HIMSS (https://www.himss.org/?channelId=1)",
+      "native_reference": "turn43search2",
+      "metadata": "[wordlim: 200] Crawled: last month; HIMSS’ Digital Health Technology Partners can help you realize the full potential of your technology investments through a range of on-site assessments and advisory services. ... In this conversation, he shares the leadership journey behind one of the Kingdom's first multi-hospital healthcare data lake initiatives and its role in advancing Saudi Vision 2030. ... July 8, 2026 HIMSS Physician Committee Member Spotlight: Jake O’Shea, MD, MBA, FACEP Dr."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "We're down for maintenance | HIMSS (https://marketplace.himss.org/)",
+      "native_reference": "turn43search3",
+      "metadata": "[wordlim: 200] Crawled: 2.0 years ago; Please visit https://myportal.himss.org to access your account."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Welcome to the HIMSS NCA Website! (https://nationalcapitalarea.himss.org/)",
+      "native_reference": "turn43search4",
+      "metadata": "[wordlim: 200] Crawled: today; # Welcome to the HIMSS NCA Website!"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Market Insights | HIMSS (https://www.himss.org/market-insights/)",
+      "native_reference": "turn43search5",
+      "metadata": "[wordlim: 200] Crawled: 2 days ago; HIMSS recently partnered with WebMD’s Medscape to survey clinicians, nurses, and executives at medical organizations about how they’re using AI, and why early adoption pays off."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Latest Research | HIMSS (https://www.himss.org/latest-research/)",
+      "native_reference": "turn43search6",
+      "metadata": "[wordlim: 200] Crawled: 2 days ago; HIMSS recently teamed up with WebMD’s Medscape to survey clinicians, nurses, and executives at medical organizations about how they are using AI, and why early adoption pays off."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Exhibitors (https://app.himssconference.com/event/himss-2026/exhibitors/RXZlbnRWaWV3XzEyMTIxNDU%3D?filters=RmllbGREZWZpbml0aW9uXzgxMTI2Nw%253D%253D%3ARmllbGRWYWx1ZV8yNjYwMDI5NA%253D%253D)",
+      "native_reference": "turn43search7",
+      "metadata": "[wordlim: 200] Crawled: today; HIMSS 2026"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "General Information : HIMSS Events Knowledge Hub (https://himss.exhibitor-hub.informaconnect.com/support/solutions/articles/150000212979-general-information)",
+      "native_reference": "turn43search8",
+      "metadata": "[wordlim: 200] Published: last year; Crawled: 2 weeks ago; The Exhibitor Resource Center (ERC) for HIMSS26 is now live, offering an updated look and improved usability, replacing the old exhibitor dashboard."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Explore Digital Health Solutions | HIMSS (https://www.himss.org/digital-health-solutions/)",
+      "native_reference": "turn43search9",
+      "metadata": "[wordlim: 200] Crawled: 2 days ago; HIMSS arms teams with data-backed insights that guide entire projects and create real change. ...   * Saved over 3 years on avoidable C. diff events for Parkview Health Inside their AI model"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "HIMSS (https://pages.himss.org/LP-HITBuyersSurvey.html)",
+      "native_reference": "turn43search10",
+      "metadata": "[wordlim: 200] Crawled: today; Image: Himss"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Solicitare de ofertă: Servicii de amenajare tehnică — DeepTech GigaHack 2026 - Technovator (https://technovator.world/solicitare-de-oferta-servicii-de-amenajare-tehnica-deeptech-gigahack-2026/)",
+      "native_reference": "turn43search11",
+      "metadata": "[wordlim: 200] Published: 4 months ago; Crawled: 2 weeks ago; # Solicitare de ofertă: Servicii de amenajare tehnică — DeepTech GigaHack 2026"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "VI6N2     I     P r o f e s s i o n a l  I n f o r m a t i o n  Tr a n s f o r m i n g  N o r t h  A m e r i c a n  H e a l t h c a r e  M a r k e t s ™ (https://www.medsp.com/assets/v16n2_web.pdf)",
+      "native_reference": "turn43search12",
+      "metadata": "[wordlim: 200] Published: 10 months ago; site of HIMSS 16, next year). ... www.medsp.com"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Healthcare Information and Management Systems Society (https://en.wikipedia.org/wiki/Healthcare_Information_and_Management_Systems_Society)",
+      "native_reference": "turn43search13",
+      "metadata": "[wordlim: 200] Crawled: 4 months ago; HIMSS was organized in 1961 as the Hospital Management Systems Society (HMSS), an independent, unincorporated, nonprofit association of individuals. ... He succeeded H."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "PowerPoint Presentation (https://nationalcapitalarea.himss.org/sites/hde/files/2026-02/himss-nca-19-feb-program-slides._.pdf)",
+      "native_reference": "turn43search14",
+      "metadata": "[wordlim: 200] Published: 6 months ago; https://maryland.himss.org/events/md-himss-healthtech26-golf-conference-advancing-healthcare-excellence-through-digital"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "HIMSS 23 — HEALTH+TECH THAT CONNECTS / THAT CARES (https://pages.himss.org/rs/420-YNA-292/images/HIMSS23APAC_ProgrammeOverview.pdf)",
+      "native_reference": "turn43search15",
+      "metadata": "[wordlim: 200] Published: 3.0 years ago; Crawled: 3.0 years ago; <tr><td>12:30-14:30</td><td>CXO Luncheon: Sponsored by Medigate by Claroty (By invitation)</td><td>CXO Luncheon: Sponsored by Zebra Technologies (By invitation)</td></tr> ... <tr><td>11:15-12:00</td><td colspan=\"2\">Keynote Plenary 12: Panel Discussion — The Double-Edged Sword of Emerging Technology<br>Moderator: Andrew Pearce, Vice President &amp; Global Analytics Lead, HIMSS Analytics, Australia<br>Veneeth Purushotaman, Group CIO, Aster DM Healthcare, Dubai<br>Tamara Sunbul, M.D., CPHIMS, PMP, FHIIMS, CCIO, Johns Hopkins Aramco Healthcare, Saudi Arabia<br>Arvind Sivaramakrishnan, Chief Information Officer, Karkinos Healthcare, India</td></tr> ... <tr><td>16:45-17:30</td><td colspan=\"2\">Closing Keynote 14: Panel Discussion — The Next Wave in Care<br>Moderator: Dhesi Raja, Vice Chair HIMSS APAC &amp; Advisor to Mitsubishi Global Health Architecture, Malaysia<br>Oscar Lee, Vice Superintendent, Orthopedic Surgeon, China Medical University Hospital, Taiwan<br>Han Deok Hyun, MD PhD, Vice-CMIO, Samsung Medical Center, South Korea<br>A/Prof Low Cheng Ooi, Chief Technology Officer, Sheares Healthcare Group, Singapore<br>Dr."
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "2024 HIMSS Global Health Conference & Exhibition (https://himss24.mapyourshow.com/8_0/exhibitor/exhibitor-list.cfm?export=pdf)",
+      "native_reference": "turn43search16",
+      "metadata": "[wordlim: 200] Published: 10 months ago; HIMSS Digital Health Technology Park ... HirebizMed"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "HIMSS EURASIA 2022 | POST-SHOW REPORT (https://himsseurasia.com/wp-content/uploads/2024/09/HIMSS2022_RAPOR_EN.pdf)",
+      "native_reference": "turn43search17",
+      "metadata": "[wordlim: 200] Published: 3.5 years ago; HIMSS EURASIA 2022 | POST-SHOW REPORT ... MEDRICS"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Event Highlights (https://www.himssme.org/12/docs/HIMSS_ME10_Event_Highlights.pdf)",
+      "native_reference": "turn43search18",
+      "metadata": "[wordlim: 200] Published: 6 months ago; HIMSS would like to thank the following organizations that have"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "SOC.md — Home (https://new.soc.md/)",
+      "native_reference": "turn43view0",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://new.soc.md/\",\"lineno\":null}); Total lines: 109"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "BiomentorHub - An ecosystem dedicated to research and innovation (https://www.biomentorhub.ro/)",
+      "native_reference": "turn43view1",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.biomentorhub.ro/\",\"lineno\":null}); Total lines: 492"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Home - Orbility (https://www.orbility.com/en/)",
+      "native_reference": "turn43view2",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.orbility.com/en/\",\"lineno\":null}); Total lines: 225"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Deeptech Training of Trainers: Deeptech GigaHack 2026 mentors take part, for the first time, in a dedicated training programme - Technovator (https://technovator.world/deeptech-training-of-trainers-deeptech-gigahack-2026-mentors-take-part-for-the-first-time-in-a-dedicated-training-programme/)",
+      "native_reference": "turn43view3",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: click({\"ref_id\":\"turn40view0\",\"id\":26}); Total lines: 93"
+    },
+    {
+      "batch": "partner_wave2",
+      "source_line": "Deeptech Training of Trainers: Developing a Mentor Community for Moldova’s Deeptech Future - Technovator (https://technovator.world/deeptech-training-of-trainers-developing-a-mentor-community-for-moldovas-deeptech-future/)",
+      "native_reference": "turn43view4",
+      "metadata": "[wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: click({\"ref_id\":\"turn40view0\",\"id\":27}); Total lines: 103"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Integration development - eGov4Dev (https://egov-moldova.github.io/egov4dev/guides/mpay/integration-development/)",
+      "native_reference": "turn49search0",
+      "metadata": "[wordlim: 200] Crawled: yesterday; eGov4Dev ... MPay uses certificates generated by Information Technology and Cyber Security Service P.I. (here-and-after called STISC), by requesting a certificate for digital signature and authentication. ... For test environment, the service provider (developers) shall use the test certificates obtained from Service owner."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Integration development - eGov4Dev (https://egov-moldova.github.io/egov4dev/guides/mpass/integration-development/)",
+      "native_reference": "turn49search1",
+      "metadata": "[wordlim: 200] Crawled: 2 days ago; For security reasons, Service test and production environments MUST use a different certificate and corresponding private keys MUST be kept as confidential as possible. ... Testing  | https://mpass.staging.egov.md/login/saml  | https://mpass.staging.egov.md/logout/saml"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Overview - eGov4Dev (https://egov-moldova.github.io/egov4dev/guides/mpass/)",
+      "native_reference": "turn49search2",
+      "metadata": "[wordlim: 200] Crawled: last month;   4. ... Register your SP with MPass and exchange metadata and certificates as required. ... Test end-to-end using the provided examples or your preferred stack. ... MPass depends on the digital identity providers, so its availability and performance is directly influenced by the availability and performance of the services delivered by the providers."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Integration development - eGov4Dev (https://egov-moldova.github.io/egov4dev/guides/mdocs/integration-development/)",
+      "native_reference": "turn49search3",
+      "metadata": "[wordlim: 200] Crawled: 2 weeks ago; eGov4Dev ... MDocs accepts client certificates generated by Certification Authority of the Information Technology and Cyber Security Service (https://stisc.gov.md), by requesting a certificate for authentication for systems."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "eGov4Dev | Platformă pentru dezvoltatori (https://egov-moldova.github.io/egov4dev/)",
+      "native_reference": "turn49search4",
+      "metadata": "[wordlim: 200] Crawled: 2 days ago; eGov4Dev este biblioteca oficială de documentație pentru dezvoltatorii care lucrează cu ecosistemul eGov Moldova al Republicii Moldova. ... Aplicația e construită și acum integrezi serviciile guvernamentale: autentificare MPass, semnătură electronică MSign, plăți MPay și altele."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "CENTRUL NAȚIONAL PENTRU PROTECȚIA DATELOR CU CARACTER PERSONAL AL REPUBLICII MOLDOVA (https://datepersonale.md/wp-content/uploads/2026/03/raport_2025_ro-eng-web.pdf)",
+      "native_reference": "turn49search12",
+      "metadata": "[wordlim: 200] Published: 6 months ago; Crawled: 5 months ago; În contextul intrării în vigoare, la data de 23 august 2026, a Legii nr. 195/2024 privind protecția datelor cu caracter personal, în anul 2025 CNPDCP s-a focusat pe elaborarea documentului *Îndrumări/explicații în vederea aplicării corecte a Legii nr. 195/2024 privind protecția datelor cu caracter personal*."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Overview - eGov4Dev (https://egov-moldova.github.io/egov4dev/guides/mconnect-events/)",
+      "native_reference": "turn49search5",
+      "metadata": "[wordlim: 200] Crawled: last month; eGov4Dev ... To simplify consumer integration testing, the API allows consumers to produce test events for their own consumption. ... MConnect Events is deployed in a highly available infrastructure and depends only on the availability of MPass API for client management."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Platforms and services - eGov4Dev (https://egov-moldova.github.io/egov4dev/platforms/)",
+      "native_reference": "turn49search6",
+      "metadata": "[wordlim: 200] Crawled: 2 weeks ago; Most services in the eGov Moldova shared infrastructure are available free of charge for all integrating parties. ... The system is integrated with MPass, MSign, MConnect, and MNotify, ensuring secure and verifiable delegation processes. ... 708/2014."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "GitHub - egov-moldova/Egov.Integrations.MSign.Soap · GitHub (https://github.com/egov-moldova/Egov.Integrations.MSign.Soap)",
+      "native_reference": "turn49search7",
+      "metadata": "[wordlim: 200] Crawled: 2 days ago; egov-moldova / Egov.Integrations.MSign.Soap Public ...   * A valid Service Provider certificate registered in MSign (issued by STISC) ... The solution includes a test project `Test/` that demonstrates usage and can be used for integration testing."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Semnătura electronică și serviciul guvernamental MSign | Agenția de Guvernare Electronică (https://www.egov.md/ro/content/serviciul-guvernamental-de-semnatura-electronica)",
+      "native_reference": "turn49search8",
+      "metadata": "[wordlim: 200] Published: 4.6 years ago; Crawled: today; La accesarea oricărui serviciu electronic, care necesită autentificare, inclusiv platforma VOUCHER CULTURAL, vei fi direcționat pe platforma MPass, unde trebuie să alegi modalitatea de semnătură pe care o ai la dispoziție. ...   * Accesează platforma msign.gov.md ... Prin MSign poți semna cu cele 2 instrumente disponibile: Semnătura Mobilă și Semnătura electronică (STISC)."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Întrebări frecvente | Serviciul Tehnologia Informației și Securitate Cibernetică (https://stisc.gov.md/ro/intrebari-frecvente)",
+      "native_reference": "turn49search9",
+      "metadata": "[wordlim: 200] Published: 6.5 years ago; Crawled: 2 days ago; Conform Legii nr. 91/2014, un document electronic semnat cu semnătură electronică avansată calificată este asimilat, după efectele sale, cu documentul analog pe suport de hârtie, semnat cu semnătură olografă. ... Pentru a verifica dacă documentul a fost semnat electronic, este necesară încărcarea acestuia pe site-ul www.msign.gov.md, la secțiunea „Verifică”, unde trebuie să apară mesajul „validă”. ... Adesea această eroare este cauzată de expirarea perioadei de valabilitate a unui certificat al cheii publice. ... NOTA: Actualizarea profilului MPass pentru logarea în SPEG poate dura de la 2 la 5 min, vă rugam s ă așteptași puțin timp până ce în lista va apărea adresa Dvs. e-mail. ... Pentru a activa 2FA consultați ghidul https://stisc.gov.md/ro/ghiduri/ghid-practic-de-setare-autentificarii-bifactoriale-pentru-serviciul-de-posta-electronica"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "23 august 2026 – un nou reper pentru protecția datelor cu caracter personal în Republica Moldova (https://datepersonale.md/23-august-2026-un-nou-reper-pentru-protectia-datelor-cu-caracter-personal-in-republica-moldova/)",
+      "native_reference": "turn49search10",
+      "metadata": "[wordlim: 200] Published: last week; Crawled: 2 days ago; Începând cu această zi, intră în vigoare două acte normative importante – Legea nr. 195/2024 privind protecția datelor cu caracter personal și Legea nr. 160/2026 privind protecția datelor cu caracter personal prelucrate în scopul prevenirii și combaterii infracțiunilor. ...         23 august 2026 marchează, astfel, începutul unei noi etape pentru protecția datelor cu caracter personal în Republica Moldova – o etapă bazată pe reguli mai clare, responsabilitate sporită și garanții consolidate pentru persoanele vizate."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "MPass (https://mpass.gov.md/info/moldsign)",
+      "native_reference": "turn49search11",
+      "metadata": "[wordlim: 200] Crawled: today;   4. ... Pentru informații adiționale accesați pagina Serviciului Tehnologia Informației și Securitate Cibernetică - stisc.gov.md."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Consiliul Instituției publice „Agenția de Guvernare Electronică” (https://egov.md/sites/default/files/document/attachments/decizie_nr.10_a_consiliului_ip_age_din_28.06.21.semnat.signed_0.pdf)",
+      "native_reference": "turn49search13",
+      "metadata": "[wordlim: 200] Published: 5.2 years ago; platformele de test ale MPass, MSign și ... de către MECC către STISC, urmează ca"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Legea nr. 195/2024 privind protecția datelor cu caracter personal (https://datepersonale.md/wp-content/uploads/2026/03/Legea-nr.1952024.pdf)",
+      "native_reference": "turn49search14",
+      "metadata": "[wordlim: 200] Published: 4 months ago; Legea nr. 195/2024 privind protecția datelor cu caracter personal(în vigoare din 23 august 2026)"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Digitally signed by Prisacar An (https://anta.gov.md/sites/default/files/ANTA_Plan_general_achizi%C8%9Bii_TIC_2022_30.12.2021.semnat.signed.semnat.pdf)",
+      "native_reference": "turn49search15",
+      "metadata": "[wordlim: 200] Published: 9 months ago; Pentru 2022: se estimeaza achizita \"Trusted Wildcard\" = 2737 lei, 1 certificat valabil 1 an calendaristic, pentru sistemul informațional e-Autorizatie Transport vers.2 (certificat expira 11.06.2022) https://eat.anta.gov.md/ ... 3.2 3.4 | 72268000-1 72500000-0 | Semnaturi electronice Servicii de administrare și mentenanță a programului de evidență contabilă 1C vers.8 | Pentru conformarea cu prevederile: Legea NR. 91/2014 privind semnătura electronică și documentul electronic, HG nr. 405/2014 privind serviciul integrat de semnătură electronică de stat (MSign), HG nr. 1090/2013 privind Serviciul electronic de stat pentru autentificare și control acces (MPass). ... STISC, https://stisc.gov.md/ro/produse-software"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "6.3 Annex 3. Digital ecosystem (https://egov.md/sites/default/files/document/attachments/terms_of_reference.pdf)",
+      "native_reference": "turn49search16",
+      "metadata": "[wordlim: 200] Published: 1.2 years ago; This government-owned infrastructure, managed by the STISC, is renowned for its high level of security and advanced technology. ... It's important to note that the single-sign-on solution involves direct user interaction with the MPass website, which can also be integrated with native mobile apps. ... MSign is the government's electronic signature service, offering a secure and versatile solution for using different types of electronic signatures in online interactions while ensuring the authenticity of the signatures."
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Internal Error ()",
+      "native_reference": "turn49view0",
+      "metadata": "[wordlim: 200] Source: open({\"ref_id\":\"https://technovator.world/deeptech-gigahack-cel-mai-mare-hackathon-din-tara-si-a-desemnat-castigatorii/\",\"lineno\":null}); Total lines: 1"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Internal Error ()",
+      "native_reference": "turn49view1",
+      "metadata": "[wordlim: 200] Source: open({\"ref_id\":\"https://old.gigahack.md/deeptech-gigahack-2025-innovation-energy-and-creativity-at-moldovas-largest-hackathon-who-are-the-winners/\",\"lineno\":null}); Total lines: 1"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Portalul Guvernamental de Date | date.gov.md (https://date.gov.md/)",
+      "native_reference": "turn49view2",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://date.gov.md/\",\"lineno\":null}); Total lines: 161"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Bun Venit - Portalul Datelor Deschise (https://dataset.gov.md/)",
+      "native_reference": "turn49view3",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://dataset.gov.md/\",\"lineno\":null}); Total lines: 61"
+    },
+    {
+      "batch": "history_legal",
+      "source_line": "Internal Error ()",
+      "native_reference": "turn49view4",
+      "metadata": "[wordlim: 200] Source: open({\"ref_id\":\"https://datepersonale.md/legislatie/nationala/\",\"lineno\":null}); Total lines: 1"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "#healthtech #mobile #ai #gigahack #tnf | Alex Culeva | 13 comments (https://www.linkedin.com/posts/s2dent_healthtech-mobile-ai-activity-7246486582528987138-qr_b)",
+      "native_reference": "turn53view0",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn52view0\",\"lineno\":38}); Total lines: 130"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "Internal Error ()",
+      "native_reference": "turn53view1",
+      "metadata": "[wordlim: 200] Source: open({\"ref_id\":\"turn52search0\",\"lineno\":null}); Total lines: 1"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "GitHub - roataway/api-documentation: Roatawăy API documentation for 3rd-party integrators · GitHub (https://github.com/roataway/api-documentation)",
+      "native_reference": "turn53view2",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn52search1\",\"lineno\":null}); Total lines: 343"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "GitHub - roataway/infrastructure-data: Data sets related to public transport in Chișinău · GitHub (https://github.com/roataway/infrastructure-data)",
+      "native_reference": "turn53view3",
+      "metadata": "[wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"turn52search2\",\"lineno\":null}); Total lines: 337"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "Date deschise GTFS — e-orar.md (https://e-orar.md/retea-de-transport/open-data)",
+      "native_reference": "turn53view4",
+      "metadata": "[wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: open({\"ref_id\":\"turn52search5\",\"lineno\":null}); Total lines: 82"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "Internal Error ()",
+      "native_reference": "turn53view5",
+      "metadata": "[wordlim: 200] Source: open({\"ref_id\":\"https://download.geofabrik.de/europe/moldova.html\",\"lineno\":null}); Total lines: 1"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "🌦️ Docs | Open-Meteo.com (https://open-meteo.com/en/docs)",
+      "native_reference": "turn53view6",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://open-meteo.com/en/docs\",\"lineno\":null}); Total lines: 941"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "About Sleep | Sleep | CDC (https://www.cdc.gov/sleep/about/index.html)",
+      "native_reference": "turn53view7",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.cdc.gov/sleep/about/index.html\",\"lineno\":null}); Total lines: 194"
+    },
+    {
+      "batch": "local_support",
+      "source_line": "Regulation - 2016/679 - EN - gdpr - EUR-Lex (https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)",
+      "native_reference": "turn53view8",
+      "metadata": "[wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng\",\"lineno\":null}); Total lines: 2265"
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://raw.githubusercontent.com/Koyd1/GIGAHACK-2025-FalcoNS/main/smart-parking/README.md",
+      "native_reference": "turn55view0",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://raw.githubusercontent.com/nicolaivicol/chat-own-docs-ft-rag/master/requirements.txt",
+      "native_reference": "turn55view2",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://raw.githubusercontent.com/MariusBoian/GigaHack2025CyberSecurity/main/README.md",
+      "native_reference": "turn55view3",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://github.com/roataway/infrastructure-data/blob/develop/LICENSE",
+      "native_reference": "turn54view0",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://www.cdc.gov/sleep/about/index.html",
+      "native_reference": "turn54view1",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://raw.githubusercontent.com/Koyd1/GIGAHACK-2025-FalcoNS/main/smart-parking/docs/demo-scenarios.md",
+      "native_reference": "turn56view0",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://open-meteo.com/en/terms",
+      "native_reference": "turn56view1",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://arxiv.org/abs/2607.29178",
+      "native_reference": "turn57view0",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://arxiv.org/abs/2512.08296",
+      "native_reference": "turn57view1",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://arxiv.org/abs/2506.07962",
+      "native_reference": "turn57view2",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://datepersonale.md/23-august-2026-un-nou-reper-pentru-protectia-datelor-cu-caracter-personal-in-republica-moldova/",
+      "native_reference": "turn58view0",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+      "native_reference": "turn58view1",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "final_targeted_verification",
+      "source_line": "https://arxiv.org/html/2607.29178v1",
+      "native_reference": "turn58view2",
+      "metadata": "Accessed 2026-09-05; see sources.md for supported claim and limits."
+    },
+    {
+      "batch": "operating_decisions_followup",
+      "source_line": "https://technovator.world/job-advertisement-deeptech-program-manager/",
+      "native_reference": "turn60view1",
+      "metadata": "Published 2026-04-14; read 2026-09-05; scope, datasets, success criteria, infrastructure and technical Q&A responsibilities"
+    },
+    {
+      "batch": "operating_decisions_followup",
+      "source_line": "https://airtable.com/app9Tl2dfW9JvYxpU/pag2tef0psFJH24TM/form",
+      "native_reference": "CUA browser 1 tab 3 accessibility state",
+      "metadata": "Read 2026-09-05; linked by official gigahack.md; provider model up to six teams of up to five, ten challenges, 72 hours; not a participant rulebook"
+    }
+  ]
+}

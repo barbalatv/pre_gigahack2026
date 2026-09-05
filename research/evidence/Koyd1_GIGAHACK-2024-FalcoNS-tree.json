@@ -1,0 +1,1025 @@
+{
+  "sha": "49c754a262db5e74be93f91f9565e918c259e4c9",
+  "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/49c754a262db5e74be93f91f9565e918c259e4c9",
+  "tree": [
+    {
+      "path": ".env",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "size": 1,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": ".eslintrc.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bffb357a7122523ec94045523758c4b825b448ef",
+      "size": 40,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/bffb357a7122523ec94045523758c4b825b448ef"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00bba9bb2902b0af9ef944b4dc1b99ed5f65a497",
+      "size": 396,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/00bba9bb2902b0af9ef944b4dc1b99ed5f65a497"
+    },
+    {
+      "path": ".idea",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "200a3da9b70a0a23ccf0fa5f9c5d9d83fb5d9d18",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/200a3da9b70a0a23ccf0fa5f9c5d9d83fb5d9d18"
+    },
+    {
+      "path": ".idea/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b58b603fea78041071d125a30db58d79b3d49217",
+      "size": 98,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/b58b603fea78041071d125a30db58d79b3d49217"
+    },
+    {
+      "path": ".idea/easycode.ignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be585df4fbdee0e3f65a955605e18159d236d94c",
+      "size": 111,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/be585df4fbdee0e3f65a955605e18159d236d94c"
+    },
+    {
+      "path": ".idea/git_toolbox_blame.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7dc124965d28403ec2545a24d7d1cd1fec1f57d8",
+      "size": 171,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/7dc124965d28403ec2545a24d7d1cd1fec1f57d8"
+    },
+    {
+      "path": ".idea/inspectionProfiles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "34771f5364585eb7f3a52c634b269f58db871ad6",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/34771f5364585eb7f3a52c634b269f58db871ad6"
+    },
+    {
+      "path": ".idea/inspectionProfiles/Project_Default.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03d9549ea8e4ada36fb3ecbc30fef08175b7d728",
+      "size": 251,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/03d9549ea8e4ada36fb3ecbc30fef08175b7d728"
+    },
+    {
+      "path": ".idea/material_theme_project_new.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6bb278f0317396d15fa71c9208020a7d2a99fb6",
+      "size": 415,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/d6bb278f0317396d15fa71c9208020a7d2a99fb6"
+    },
+    {
+      "path": ".idea/modules.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbf60e0d75c5a822f8ad4bbf33c7efca7d0a653f",
+      "size": 264,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/bbf60e0d75c5a822f8ad4bbf33c7efca7d0a653f"
+    },
+    {
+      "path": ".idea/mvp-gh.iml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24643cc37449b4bde54411a80b8ed61258225e34",
+      "size": 458,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/24643cc37449b4bde54411a80b8ed61258225e34"
+    },
+    {
+      "path": ".idea/vcs.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a25f7f4cb416c083d265558da75d457237d671",
+      "size": 180,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/94a25f7f4cb416c083d265558da75d457237d671"
+    },
+    {
+      "path": "FalcoNS_GigaHack.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "783d84722280187425f30f246f09b9aad602a21f",
+      "size": 1162695,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/783d84722280187425f30f246f09b9aad602a21f"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a2ae86b369467dc832ac81e8bca0774c6350319",
+      "size": 629,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/6a2ae86b369467dc832ac81e8bca0774c6350319"
+    },
+    {
+      "path": "SECURITY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "034e848032092eaf8ef96eac731b6ed5961987f3",
+      "size": 619,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/034e848032092eaf8ef96eac731b6ed5961987f3"
+    },
+    {
+      "path": "jsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8d6842d7fad0a64e5ffa846e104342233782852",
+      "size": 77,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/b8d6842d7fad0a64e5ffa846e104342233782852"
+    },
+    {
+      "path": "next.config.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4678774e6d606704bce1897a5dab960cd798bf66",
+      "size": 92,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/4678774e6d606704bce1897a5dab960cd798bf66"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef801944145ac5382146e84bb3b58e323c8e8645",
+      "size": 226423,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/ef801944145ac5382146e84bb3b58e323c8e8645"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a1919355a7456f7431eb79c46cb317c94ad6c54",
+      "size": 863,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/7a1919355a7456f7431eb79c46cb317c94ad6c54"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a69fd2a450afc3bf47e08b22c149190df0ffdb4",
+      "size": 135,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/1a69fd2a450afc3bf47e08b22c149190df0ffdb4"
+    },
+    {
+      "path": "public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8c2845aaea7d7f3ce3b4ed6ce3bd6c9242ecd919",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/8c2845aaea7d7f3ce3b4ed6ce3bd6c9242ecd919"
+    },
+    {
+      "path": "public/css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "54cef223a1d0f89bd8938721b7ad98ae9cf0578e",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/54cef223a1d0f89bd8938721b7ad98ae9cf0578e"
+    },
+    {
+      "path": "public/css/icofont.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c189fd6d5cfbcc6541cc361c026add52624a8ae",
+      "size": 92218,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/6c189fd6d5cfbcc6541cc361c026add52624a8ae"
+    },
+    {
+      "path": "public/img",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e1ffba4818b49b87c1ee68e3564788e7a695a0e",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/8e1ffba4818b49b87c1ee68e3564788e7a695a0e"
+    },
+    {
+      "path": "public/img/FunFacts.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c9fde5ed60699c730db2358656d3153aa692077",
+      "size": 27410,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/8c9fde5ed60699c730db2358656d3153aa692077"
+    },
+    {
+      "path": "public/img/doctor1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf5d08b9f2f455881f18b0e42749f06daa52313a",
+      "size": 178969,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/bf5d08b9f2f455881f18b0e42749f06daa52313a"
+    },
+    {
+      "path": "public/img/doctor2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf82c12468c6bfba1fd30dcf861fcee7911b4930",
+      "size": 240922,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/bf82c12468c6bfba1fd30dcf861fcee7911b4930"
+    },
+    {
+      "path": "public/img/doctor3.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c6972983f2083dbd43e949708acdd19c8d6d6cb",
+      "size": 253332,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/4c6972983f2083dbd43e949708acdd19c8d6d6cb"
+    },
+    {
+      "path": "public/img/doctor4.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae01e5956abaee6602461047aadbc0da7af55690",
+      "size": 207867,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/ae01e5956abaee6602461047aadbc0da7af55690"
+    },
+    {
+      "path": "public/img/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2f876c71a7f039723527f164cd4530d99d19a0c",
+      "size": 53769,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/a2f876c71a7f039723527f164cd4530d99d19a0c"
+    },
+    {
+      "path": "public/img/invitro.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08eed4131dffa30fba6db0f0c9d59439c3020963",
+      "size": 27261,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/08eed4131dffa30fba6db0f0c9d59439c3020963"
+    },
+    {
+      "path": "public/img/section-img.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b305d287ba55dce620cfa524c8b337342de937b3",
+      "size": 385,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/b305d287ba55dce620cfa524c8b337342de937b3"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8feca819d143d70010a15e1d7dbce9780b2466f4",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/8feca819d143d70010a15e1d7dbce9780b2466f4"
+    },
+    {
+      "path": "src/app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "73129441bf406d3d03fea730edf75a92d2f780dd",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/73129441bf406d3d03fea730edf75a92d2f780dd"
+    },
+    {
+      "path": "src/app/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e15acb5f606d76f973453b90a2b64246c873df9",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/6e15acb5f606d76f973453b90a2b64246c873df9"
+    },
+    {
+      "path": "src/app/components/Analyses",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dff6f006d962f72ececf6e1d5d9e8b157f53d63b",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/dff6f006d962f72ececf6e1d5d9e8b157f53d63b"
+    },
+    {
+      "path": "src/app/components/Analyses/Analyses.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "228bcebaed70a026153e3532d98808981af384a8",
+      "size": 1301,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/228bcebaed70a026153e3532d98808981af384a8"
+    },
+    {
+      "path": "src/app/components/Analyses/Analyses.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e2031952c72de342abbf7ce650d8b1c2d0900f1",
+      "size": 1490,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/8e2031952c72de342abbf7ce650d8b1c2d0900f1"
+    },
+    {
+      "path": "src/app/components/BookAppointment",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e3c234788e1952d7b6efb5cb8c03aaace0172c57",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/e3c234788e1952d7b6efb5cb8c03aaace0172c57"
+    },
+    {
+      "path": "src/app/components/BookAppointment/BookAppointment.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85dc19409bb60d2c2b263ede42f7afb317c3b662",
+      "size": 2553,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/85dc19409bb60d2c2b263ede42f7afb317c3b662"
+    },
+    {
+      "path": "src/app/components/BookAppointment/bookAppointment.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "028231e7f601d7ad92f6618c84b3b4930bdde800",
+      "size": 1045,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/028231e7f601d7ad92f6618c84b3b4930bdde800"
+    },
+    {
+      "path": "src/app/components/Challenges",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "548523ea4f9863c96c1644e4548ecb53d8e38518",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/548523ea4f9863c96c1644e4548ecb53d8e38518"
+    },
+    {
+      "path": "src/app/components/Challenges/Challenges.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0356a4ddad59a5391f189cba3df520b58784d813",
+      "size": 930,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/0356a4ddad59a5391f189cba3df520b58784d813"
+    },
+    {
+      "path": "src/app/components/Challenges/Challenges.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0d066e4c57742531439bafacc5398e26c18875e",
+      "size": 1411,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e0d066e4c57742531439bafacc5398e26c18875e"
+    },
+    {
+      "path": "src/app/components/DashboardBut",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "44d2a8a2a4dc18d16fcfe79b96a5b21a1e6d9e17",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/44d2a8a2a4dc18d16fcfe79b96a5b21a1e6d9e17"
+    },
+    {
+      "path": "src/app/components/DashboardBut/DashboardBut.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dede9dfdee8752cb3c3549064716ed082577ebb1",
+      "size": 659,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/dede9dfdee8752cb3c3549064716ed082577ebb1"
+    },
+    {
+      "path": "src/app/components/DashboardBut/dashboardBut.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab3859f4f0ac1ef8792c435e5d7264ffc0bec24d",
+      "size": 287,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/ab3859f4f0ac1ef8792c435e5d7264ffc0bec24d"
+    },
+    {
+      "path": "src/app/components/Doctors",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77ea3042d7abee8777596476ce7e706ce980251c",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/77ea3042d7abee8777596476ce7e706ce980251c"
+    },
+    {
+      "path": "src/app/components/Doctors/Doctors.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a96f8ff47f12cfa82eef77015aa1ba9dae096412",
+      "size": 1817,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/a96f8ff47f12cfa82eef77015aa1ba9dae096412"
+    },
+    {
+      "path": "src/app/components/Doctors/Doctors.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5deb263e21b1484bd0fb747ed2a09d18ffbb090d",
+      "size": 2080,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/5deb263e21b1484bd0fb747ed2a09d18ffbb090d"
+    },
+    {
+      "path": "src/app/components/FeatureItem",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a0f5f0a31608f518d9a9826086e710211e956e4c",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/a0f5f0a31608f518d9a9826086e710211e956e4c"
+    },
+    {
+      "path": "src/app/components/FeatureItem/FeatureItem.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e70371b0e98183ccabff49ffbb6b31e012f5f823",
+      "size": 372,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e70371b0e98183ccabff49ffbb6b31e012f5f823"
+    },
+    {
+      "path": "src/app/components/FeatureItem/featureItem.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65a70b49258831ded77920eabd3910fa2ccebc3f",
+      "size": 864,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/65a70b49258831ded77920eabd3910fa2ccebc3f"
+    },
+    {
+      "path": "src/app/components/FeaturesSection",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ad6553ad98c362d2253577ab2434989563fb9a5",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/8ad6553ad98c362d2253577ab2434989563fb9a5"
+    },
+    {
+      "path": "src/app/components/FeaturesSection/FeaturesSection.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7226a1af166582af14f9164041b22b8a0d0e17c7",
+      "size": 1789,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/7226a1af166582af14f9164041b22b8a0d0e17c7"
+    },
+    {
+      "path": "src/app/components/FeaturesSection/featuresSection.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8843b94a66d5101c4db5e99d7776322d4e7f952",
+      "size": 992,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/d8843b94a66d5101c4db5e99d7776322d4e7f952"
+    },
+    {
+      "path": "src/app/components/FunFacts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5f590d34034552565d1e25eb9ce47c833e3daaca",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/5f590d34034552565d1e25eb9ce47c833e3daaca"
+    },
+    {
+      "path": "src/app/components/FunFacts/FunFacts.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c06603baad5eb054ef3ab2e864dd4beede64535b",
+      "size": 1027,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/c06603baad5eb054ef3ab2e864dd4beede64535b"
+    },
+    {
+      "path": "src/app/components/FunFacts/funFacts.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec9044391785591295a94dacc3250d1ce6b7b929",
+      "size": 1635,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/ec9044391785591295a94dacc3250d1ce6b7b929"
+    },
+    {
+      "path": "src/app/components/Header",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d4163ba8c48fbc5ed2cd75d885835d6de1551418",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/d4163ba8c48fbc5ed2cd75d885835d6de1551418"
+    },
+    {
+      "path": "src/app/components/Header/Header.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "821d8f308571d80eace2019e8cde55d580a06a49",
+      "size": 1422,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/821d8f308571d80eace2019e8cde55d580a06a49"
+    },
+    {
+      "path": "src/app/components/Header/styles.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bc1fdee2fef167267bbbd74e0a2d45291c9bf00",
+      "size": 2758,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/1bc1fdee2fef167267bbbd74e0a2d45291c9bf00"
+    },
+    {
+      "path": "src/app/components/Menu",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1cf87405a550ba42c42aa935f060a6d16e9e3124",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/1cf87405a550ba42c42aa935f060a6d16e9e3124"
+    },
+    {
+      "path": "src/app/components/Menu/Menu.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51cfaeeb4fbb92a87e2906e4c86357200940b0a0",
+      "size": 770,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/51cfaeeb4fbb92a87e2906e4c86357200940b0a0"
+    },
+    {
+      "path": "src/app/components/Menu/menustyle.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab03add87fbdd40211e7a1dc0b34f1c247408ce7",
+      "size": 715,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/ab03add87fbdd40211e7a1dc0b34f1c247408ce7"
+    },
+    {
+      "path": "src/app/components/Modal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6833fe95e5232302a6ae71827a19aa949c677eec",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/6833fe95e5232302a6ae71827a19aa949c677eec"
+    },
+    {
+      "path": "src/app/components/Modal/Modal.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "411195d2d44e62d342ce28b8f10a040bad088d20",
+      "size": 849,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/411195d2d44e62d342ce28b8f10a040bad088d20"
+    },
+    {
+      "path": "src/app/components/Modal/modal.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5e136b7ec9799b952309ad28b9c61e1bfb2cdd2",
+      "size": 735,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e5e136b7ec9799b952309ad28b9c61e1bfb2cdd2"
+    },
+    {
+      "path": "src/app/components/MyAnalyses",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9089389f38f9ec051943e0f395fc6cbd01aed340",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/9089389f38f9ec051943e0f395fc6cbd01aed340"
+    },
+    {
+      "path": "src/app/components/MyAnalyses/MyAnalyses.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1539606df0c9305143b6f9b7a61b7ce1c3e48466",
+      "size": 959,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/1539606df0c9305143b6f9b7a61b7ce1c3e48466"
+    },
+    {
+      "path": "src/app/components/MyAnalyses/myAnalyses.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "508c0fb7b7c49af6db9f5eec213019e9d240d7d0",
+      "size": 1658,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/508c0fb7b7c49af6db9f5eec213019e9d240d7d0"
+    },
+    {
+      "path": "src/app/components/NavBar",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47c938b06dcf369a20b7b68da3634024ae7ee06f",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/47c938b06dcf369a20b7b68da3634024ae7ee06f"
+    },
+    {
+      "path": "src/app/components/NavBar/NavBar.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "927b73970f7f2b45244724c1b2356e9fbf6018b5",
+      "size": 430,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/927b73970f7f2b45244724c1b2356e9fbf6018b5"
+    },
+    {
+      "path": "src/app/components/NavBar/navBar.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9baf914b8320d3269ffd0eb0e414e52743caf67a",
+      "size": 229,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/9baf914b8320d3269ffd0eb0e414e52743caf67a"
+    },
+    {
+      "path": "src/app/components/PersonalAccount",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3a805b09b3efc50fda8f5fc792d7f95ed8802f9c",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/3a805b09b3efc50fda8f5fc792d7f95ed8802f9c"
+    },
+    {
+      "path": "src/app/components/PersonalAccount/PersonalAccount.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf7744692d37eaeacb88c084432b11d1587d5325",
+      "size": 1097,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/bf7744692d37eaeacb88c084432b11d1587d5325"
+    },
+    {
+      "path": "src/app/components/PersonalAccount/personalAccount.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b97382d7d8963cb2012d823151695ab4509e149",
+      "size": 105,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/2b97382d7d8963cb2012d823151695ab4509e149"
+    },
+    {
+      "path": "src/app/components/PersonalCard",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f609c0e48ccc1b99bb958e89a0a1464d2ea6561a",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/f609c0e48ccc1b99bb958e89a0a1464d2ea6561a"
+    },
+    {
+      "path": "src/app/components/PersonalCard/PersonalCard.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b8be964e4bb21be0cc28d7caf647a4881b08548",
+      "size": 1102,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/4b8be964e4bb21be0cc28d7caf647a4881b08548"
+    },
+    {
+      "path": "src/app/components/PersonalCard/personalCard.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b6fc0a46196a1c904f7d99d0ccb02060b28f9b6",
+      "size": 1658,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/2b6fc0a46196a1c904f7d99d0ccb02060b28f9b6"
+    },
+    {
+      "path": "src/app/components/Preloader",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "40b97aad5aa5cfd028ea1fbcedd225a43fca3d07",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/40b97aad5aa5cfd028ea1fbcedd225a43fca3d07"
+    },
+    {
+      "path": "src/app/components/Preloader/Preloader.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84a3d491c4b99bb73cc4ad68e100693b4500c684",
+      "size": 497,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/84a3d491c4b99bb73cc4ad68e100693b4500c684"
+    },
+    {
+      "path": "src/app/components/Preloader/preloader.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69393b3c755f465ffe5837ca301ce8373d801cef",
+      "size": 2201,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/69393b3c755f465ffe5837ca301ce8373d801cef"
+    },
+    {
+      "path": "src/app/components/PricingCard",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "468f16defc01fd32d48333469f1f5d5622e7c2e7",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/468f16defc01fd32d48333469f1f5d5622e7c2e7"
+    },
+    {
+      "path": "src/app/components/PricingCard/PricingCard.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c95b7f441f35c98048bfa7f46e0cbb0fb438e6d",
+      "size": 1451,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/2c95b7f441f35c98048bfa7f46e0cbb0fb438e6d"
+    },
+    {
+      "path": "src/app/components/PricingCard/pricingCard.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33581f2180309160aab5d12e37258c27b98764f7",
+      "size": 832,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/33581f2180309160aab5d12e37258c27b98764f7"
+    },
+    {
+      "path": "src/app/components/Selector",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "740a10f10b6dcb85c6d540dbde7649d106ca21f3",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/740a10f10b6dcb85c6d540dbde7649d106ca21f3"
+    },
+    {
+      "path": "src/app/components/Selector/Selector.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d7ed8d37e5867cb7fce37ef6591e68b9770c07f",
+      "size": 695,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/4d7ed8d37e5867cb7fce37ef6591e68b9770c07f"
+    },
+    {
+      "path": "src/app/components/Selector/selector.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e59cd5598e8c0c25dff070488c2786bfc811b218",
+      "size": 348,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e59cd5598e8c0c25dff070488c2786bfc811b218"
+    },
+    {
+      "path": "src/app/components/SymptomsChecker",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e7f718897c2471abc6d23d05acf1ad113a40f31c",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/e7f718897c2471abc6d23d05acf1ad113a40f31c"
+    },
+    {
+      "path": "src/app/components/SymptomsChecker/SymptomsChecker.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a19308db49acc4ce8b43570773708445db2fd93",
+      "size": 5740,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/2a19308db49acc4ce8b43570773708445db2fd93"
+    },
+    {
+      "path": "src/app/components/SymptomsChecker/symptomsChecker.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c46a5096dbf6bf9ac81ed3f8bcc6413d8f0a4369",
+      "size": 2615,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/c46a5096dbf6bf9ac81ed3f8bcc6413d8f0a4369"
+    },
+    {
+      "path": "src/app/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1b6fe27dcd8070e69c0c796e74658877c802748a",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/1b6fe27dcd8070e69c0c796e74658877c802748a"
+    },
+    {
+      "path": "src/app/fonts/GeistMonoVF.woff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2ae185cbfd16946a534d819e9eb03924abbcc49",
+      "size": 67864,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/f2ae185cbfd16946a534d819e9eb03924abbcc49"
+    },
+    {
+      "path": "src/app/fonts/GeistVF.woff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b62daacff96dad6584e71cd962051b82957c313",
+      "size": 66268,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/1b62daacff96dad6584e71cd962051b82957c313"
+    },
+    {
+      "path": "src/app/fonts/fontawesome-webfont.eot",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9f60ca953f93e35eab4108bd414bc02ddcf3928",
+      "size": 165742,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e9f60ca953f93e35eab4108bd414bc02ddcf3928"
+    },
+    {
+      "path": "src/app/fonts/fontawesome-webfont.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "855c845e538b65548118279537a04eab2ec6ef0d",
+      "size": 444379,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/855c845e538b65548118279537a04eab2ec6ef0d"
+    },
+    {
+      "path": "src/app/fonts/fontawesome-webfont.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35acda2fa1196aad98c2adf4378a7611dd713aa3",
+      "size": 165548,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/35acda2fa1196aad98c2adf4378a7611dd713aa3"
+    },
+    {
+      "path": "src/app/fonts/fontawesome-webfont.woff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "400014a4b06eee3d0c0d54402a47ab2601b2862b",
+      "size": 98024,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/400014a4b06eee3d0c0d54402a47ab2601b2862b"
+    },
+    {
+      "path": "src/app/fonts/fontawesome-webfont.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d13fc60404b91e398a37200c4a77b645cfd9586",
+      "size": 77160,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/4d13fc60404b91e398a37200c4a77b645cfd9586"
+    },
+    {
+      "path": "src/app/fonts/icofont.eot",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56e15db4f6bb2f1078d19f3ea7a2c5f7769a3a9f",
+      "size": 1094407,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/56e15db4f6bb2f1078d19f3ea7a2c5f7769a3a9f"
+    },
+    {
+      "path": "src/app/fonts/icofont.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8535ec67ce6cfd30fbb95f732e7ccaf4cfecedcc",
+      "size": 2363340,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/8535ec67ce6cfd30fbb95f732e7ccaf4cfecedcc"
+    },
+    {
+      "path": "src/app/fonts/icofont.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba6d23563f2ca6fc9b2f6d54dd2b833d14302553",
+      "size": 1041096,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/ba6d23563f2ca6fc9b2f6d54dd2b833d14302553"
+    },
+    {
+      "path": "src/app/fonts/icofont.woff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48002ce2fc23f94dfc64ec48e0197bb0487b8ea9",
+      "size": 645604,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/48002ce2fc23f94dfc64ec48e0197bb0487b8ea9"
+    },
+    {
+      "path": "src/app/fonts/icofont.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75f03d7bb3d4c7b0b02a18c2562424f28a6d09bd",
+      "size": 537868,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/75f03d7bb3d4c7b0b02a18c2562424f28a6d09bd"
+    },
+    {
+      "path": "src/app/globals.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af59d6d7d7d0c5702440b74b444696c1fab6b142",
+      "size": 1697,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/af59d6d7d7d0c5702440b74b444696c1fab6b142"
+    },
+    {
+      "path": "src/app/hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "67124f442f7cba903686f461ec8c92315f505ab4",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/67124f442f7cba903686f461ec8c92315f505ab4"
+    },
+    {
+      "path": "src/app/hooks/hook.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e429dddf3ba90610ad7d6ea9ad6827b48f50959d",
+      "size": 9,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e429dddf3ba90610ad7d6ea9ad6827b48f50959d"
+    },
+    {
+      "path": "src/app/layout.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b002e15f89b393059d37cdf4c9313e642e06d6d2",
+      "size": 665,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/b002e15f89b393059d37cdf4c9313e642e06d6d2"
+    },
+    {
+      "path": "src/app/page.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d73fd9a022d5128c4af32d087edbdb04c84f222",
+      "size": 671,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/8d73fd9a022d5128c4af32d087edbdb04c84f222"
+    },
+    {
+      "path": "src/app/pages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3014ded10c8a877783789675492c96e431fcb363",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/3014ded10c8a877783789675492c96e431fcb363"
+    },
+    {
+      "path": "src/app/pages/account",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed9b46a264b628b6dff9628fe4cef91f18d90adf",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/ed9b46a264b628b6dff9628fe4cef91f18d90adf"
+    },
+    {
+      "path": "src/app/pages/account/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "917f748690a915973fb1b82942641aad5c012026",
+      "size": 1037,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/917f748690a915973fb1b82942641aad5c012026"
+    },
+    {
+      "path": "src/app/pages/analyses",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c8bf4311253e0472f7589c6e6f805eee7ba1274a",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/c8bf4311253e0472f7589c6e6f805eee7ba1274a"
+    },
+    {
+      "path": "src/app/pages/analyses/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfdee3bb0bb47441299aaae8fde780b97460de20",
+      "size": 1809,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/dfdee3bb0bb47441299aaae8fde780b97460de20"
+    },
+    {
+      "path": "src/app/pages/challenges",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cc80bb5009535038c87b808b532bee282c84a8c2",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/cc80bb5009535038c87b808b532bee282c84a8c2"
+    },
+    {
+      "path": "src/app/pages/challenges/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19991e1e087a02d01eff36a890acd54a734aa56e",
+      "size": 694,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/19991e1e087a02d01eff36a890acd54a734aa56e"
+    },
+    {
+      "path": "src/app/pages/doctors",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a2160288bd8d58304b83b6c2b26c66b7496c5f67",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/a2160288bd8d58304b83b6c2b26c66b7496c5f67"
+    },
+    {
+      "path": "src/app/pages/doctors/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "265af8ac1cba6bc185abf3132c6570da780c909e",
+      "size": 664,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/265af8ac1cba6bc185abf3132c6570da780c909e"
+    },
+    {
+      "path": "src/app/pages/home",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "32b07b534d9fc69861ca7d1e680c3d6fa87c36f9",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/32b07b534d9fc69861ca7d1e680c3d6fa87c36f9"
+    },
+    {
+      "path": "src/app/pages/home/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aed4beeb8965d3ad278ac47351c6119bc8598616",
+      "size": 785,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/aed4beeb8965d3ad278ac47351c6119bc8598616"
+    },
+    {
+      "path": "src/app/pages/login",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e0ae163e9a78b9da0415b7ba317725e2490bd5f9",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/e0ae163e9a78b9da0415b7ba317725e2490bd5f9"
+    },
+    {
+      "path": "src/app/pages/login/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "806ca1b757ff18b145f714dcd4f3885db4e7675c",
+      "size": 2728,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/806ca1b757ff18b145f714dcd4f3885db4e7675c"
+    },
+    {
+      "path": "src/app/pages/register",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e31e2e44778eb3bb1f4334bd53a1290b9cfab910",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/e31e2e44778eb3bb1f4334bd53a1290b9cfab910"
+    },
+    {
+      "path": "src/app/pages/register/page.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0af122d87513c4e053f0222ec1362dd711a5dc44",
+      "size": 2359,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/0af122d87513c4e053f0222ec1362dd711a5dc44"
+    },
+    {
+      "path": "src/app/utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "950241b26adcf50674f10bd308170725bf878fa6",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/trees/950241b26adcf50674f10bd308170725bf878fa6"
+    },
+    {
+      "path": "src/app/utils/api.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63b1bbc72e66730f5c46e16b1335b2d5a0c1161f",
+      "size": 1840,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/63b1bbc72e66730f5c46e16b1335b2d5a0c1161f"
+    },
+    {
+      "path": "src/app/utils/firebaseConfig.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acbef7965bfc2e11a27bd62a3a1ba8a765ac09ff",
+      "size": 946,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/acbef7965bfc2e11a27bd62a3a1ba8a765ac09ff"
+    },
+    {
+      "path": "src/app/utils/userLogin.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83f38b91e662b849134c19e4fd408dab7463e861",
+      "size": 1104,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/83f38b91e662b849134c19e4fd408dab7463e861"
+    },
+    {
+      "path": "src/app/utils/userRegister.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2195dede5116c0a2d959ddb3cef44a8e2ec80321",
+      "size": 2541,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/2195dede5116c0a2d959ddb3cef44a8e2ec80321"
+    },
+    {
+      "path": "tailwind.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0112b6573dc3a71a45ac05e7b91848066d030ec",
+      "size": 647,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2024-FalcoNS/git/blobs/e0112b6573dc3a71a45ac05e7b91848066d030ec"
+    }
+  ],
+  "truncated": false
+}

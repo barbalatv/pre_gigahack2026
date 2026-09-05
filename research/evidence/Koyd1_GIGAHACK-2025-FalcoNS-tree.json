@@ -1,0 +1,1285 @@
+{
+  "sha": "4dc430020d1e5ca949b8afff26386a7d2ffc3a8e",
+  "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/4dc430020d1e5ca949b8afff26386a7d2ffc3a8e",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b512c09d476623ff4bf8d0d63c29b784925dbdf8",
+      "size": 12,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b512c09d476623ff4bf8d0d63c29b784925dbdf8"
+    },
+    {
+      "path": "Gigahack_parking (1).pptx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e27f5235af184025311af317a50e0391e2b676c7",
+      "size": 2042089,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e27f5235af184025311af317a50e0391e2b676c7"
+    },
+    {
+      "path": "Gigahack_parking.pptx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b878dc38a65a2411c7bf5e6e383d64c105111959",
+      "size": 2042127,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b878dc38a65a2411c7bf5e6e383d64c105111959"
+    },
+    {
+      "path": "Parking.db",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d22e18f9505136773f5f3e8d25f6984fe4fd09e0",
+      "size": 118784,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/d22e18f9505136773f5f3e8d25f6984fe4fd09e0"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7896466b23e0424222d171b14128417ea8e40f1",
+      "size": 24,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/d7896466b23e0424222d171b14128417ea8e40f1"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da38ba9c98a0bdc4ec3241fe2b7d0a9b7ba5cdb7",
+      "size": 53881,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/da38ba9c98a0bdc4ec3241fe2b7d0a9b7ba5cdb7"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0e15b9343b82026f43b9ec8e89cbd3069fb84e1",
+      "size": 163,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b0e15b9343b82026f43b9ec8e89cbd3069fb84e1"
+    },
+    {
+      "path": "parking_sqlite.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3b3be07fb33076817e2ed97edcfbc2f45e736c6",
+      "size": 7778,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e3b3be07fb33076817e2ed97edcfbc2f45e736c6"
+    },
+    {
+      "path": "pum.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ced9c5895f8e8fe3e50fa6afed9767da806ee39",
+      "size": 2284337,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8ced9c5895f8e8fe3e50fa6afed9767da806ee39"
+    },
+    {
+      "path": "smart-parking",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6d8914092113ac25ee7f1ce5b0a9199d2ff9c76",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/a6d8914092113ac25ee7f1ce5b0a9199d2ff9c76"
+    },
+    {
+      "path": "smart-parking/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba6082bf3207fc630faafa53f904df3d8433b4f0",
+      "size": 671,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/ba6082bf3207fc630faafa53f904df3d8433b4f0"
+    },
+    {
+      "path": "smart-parking/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87156732b9389b6d8eb4a7f82e9509a0471fd973",
+      "size": 754,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/87156732b9389b6d8eb4a7f82e9509a0471fd973"
+    },
+    {
+      "path": "smart-parking/Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b8d06417c6bfea4cd339474c07aa58b6bbd9fde",
+      "size": 1663,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/9b8d06417c6bfea4cd339474c07aa58b6bbd9fde"
+    },
+    {
+      "path": "smart-parking/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a61678318b021fdf429414e8b17fc8341eb5b419",
+      "size": 8717,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/a61678318b021fdf429414e8b17fc8341eb5b419"
+    },
+    {
+      "path": "smart-parking/db",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3333e44140e36ea70cb8a46455061d78497f8b72",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/3333e44140e36ea70cb8a46455061d78497f8b72"
+    },
+    {
+      "path": "smart-parking/db/migrations",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "148a69676d3aa9f6db9b4f3c6dd32d65fd8047eb",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/148a69676d3aa9f6db9b4f3c6dd32d65fd8047eb"
+    },
+    {
+      "path": "smart-parking/db/migrations/001_init.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a38df1b19d318b610d075d293309526de97b618",
+      "size": 4640,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0a38df1b19d318b610d075d293309526de97b618"
+    },
+    {
+      "path": "smart-parking/db/migrations/010_ai_session_finalize_fields.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfcdc6a254ab08cfbea2ac83129e9cd94999ea71",
+      "size": 747,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/dfcdc6a254ab08cfbea2ac83129e9cd94999ea71"
+    },
+    {
+      "path": "smart-parking/db/migrations/011_ai_tariff_ensure_columns_seed.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8bbca0d3500d1e739b625e0ccb0242591c060ea",
+      "size": 1853,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/f8bbca0d3500d1e739b625e0ccb0242591c060ea"
+    },
+    {
+      "path": "smart-parking/db/migrations/012_ai_seed_minimal_zone.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cf03cd0da6603168f57cc9f0f7ba27b69edf176",
+      "size": 483,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8cf03cd0da6603168f57cc9f0f7ba27b69edf176"
+    },
+    {
+      "path": "smart-parking/db/migrations/013_ai_seed_current_snapshot.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af3e519a4253abea56a4ca35d547e87f35a4ab6b",
+      "size": 11929,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/af3e519a4253abea56a4ca35d547e87f35a4ab6b"
+    },
+    {
+      "path": "smart-parking/db/migrations/014_ai_late_payment_and_blocklist.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "283ae040b66deec3b37027b72213d29f1a7fa88e",
+      "size": 609,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/283ae040b66deec3b37027b72213d29f1a7fa88e"
+    },
+    {
+      "path": "smart-parking/db/tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af450849a787049e932c9685eb359ef87cb166dc",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/af450849a787049e932c9685eb359ef87cb166dc"
+    },
+    {
+      "path": "smart-parking/db/tools/ai_truncate.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f832dbfb8740af99c34a37c41207b0f1e3f4b876",
+      "size": 253,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/f832dbfb8740af99c34a37c41207b0f1e3f4b876"
+    },
+    {
+      "path": "smart-parking/db/tools/import_sqlite_to_ai.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a0479e0aaba1a0344bff9b26faafcb1f1c6a18f",
+      "size": 5018,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/9a0479e0aaba1a0344bff9b26faafcb1f1c6a18f"
+    },
+    {
+      "path": "smart-parking/db/tools/sqlite_stage_preamble.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35b39bc4c3d2379082c99bb35f997d6ffe41f1b7",
+      "size": 176,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/35b39bc4c3d2379082c99bb35f997d6ffe41f1b7"
+    },
+    {
+      "path": "smart-parking/docker-compose.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eddb7d10597c8914cb664e487f3bdc869faede7",
+      "size": 2487,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/6eddb7d10597c8914cb664e487f3bdc869faede7"
+    },
+    {
+      "path": "smart-parking/docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4dfef2f94c577237bbfec9ceb23260181765c891",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/4dfef2f94c577237bbfec9ceb23260181765c891"
+    },
+    {
+      "path": "smart-parking/docs/demo-scenarios.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "231a1c6c741c89d22b5767211e2ecb1ebf1da427",
+      "size": 1071,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/231a1c6c741c89d22b5767211e2ecb1ebf1da427"
+    },
+    {
+      "path": "smart-parking/docs/demo.http",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7da7dff85f4d183bad4e01fd9c7aacb1f1c467bc",
+      "size": 819,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/7da7dff85f4d183bad4e01fd9c7aacb1f1c467bc"
+    },
+    {
+      "path": "smart-parking/frontends",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a32411f86627ac90821d2ecf1f2806a253fb6d72",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/a32411f86627ac90821d2ecf1f2806a253fb6d72"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c670af86bde5a637372cc35a812a378bed5a581f",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/c670af86bde5a637372cc35a812a378bed5a581f"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13c6c7c2fb5e940a4d5389917e16246c583c0e83",
+      "size": 285,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/13c6c7c2fb5e940a4d5389917e16246c583c0e83"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62c88280643500d0eab9b8c89ed65002408cd8c7",
+      "size": 302,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/62c88280643500d0eab9b8c89ed65002408cd8c7"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3ce6167349352092ea5c7d57d60dabcc0ba2abd",
+      "size": 74824,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b3ce6167349352092ea5c7d57d60dabcc0ba2abd"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e361887fe696e50023573cc4942a6ba7b021905",
+      "size": 556,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0e361887fe696e50023573cc4942a6ba7b021905"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/postcss.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4a6220e2db5b2afb8b7eb96b2f252893fd913f0",
+      "size": 81,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b4a6220e2db5b2afb8b7eb96b2f252893fd913f0"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e65d94dc0336bfd15aa59a7cee5c61aefd76e598",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/e65d94dc0336bfd15aa59a7cee5c61aefd76e598"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/App.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c57281fd94806ba768db65da78feea413c8efcf7",
+      "size": 2319,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/c57281fd94806ba768db65da78feea413c8efcf7"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/api.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76c6951091e83d26fbbce3fb7ae56acd7fab002e",
+      "size": 180,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/76c6951091e83d26fbbce3fb7ae56acd7fab002e"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eb0d473e33dff1cbb510b4ed2ca1dd5842fbeccf",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/eb0d473e33dff1cbb510b4ed2ca1dd5842fbeccf"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/DiscountRules.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "452fb86490edf864a02ddf6e027bd1337196c6c8",
+      "size": 4790,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/452fb86490edf864a02ddf6e027bd1337196c6c8"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Incidents.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "913e576a60ea87a3c4058c733ba3d440ed0d6b1d",
+      "size": 5814,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/913e576a60ea87a3c4058c733ba3d440ed0d6b1d"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Rates.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19478d8806232720ffb4464bb38c17d1ddb271cc",
+      "size": 3167,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/19478d8806232720ffb4464bb38c17d1ddb271cc"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Reports.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd30b19b08d245c2b411bdb0a853796407e4b99f",
+      "size": 5675,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/fd30b19b08d245c2b411bdb0a853796407e4b99f"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Sessions.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13f49fe84a2b6de0e7e48aea78ab9de1824569e5",
+      "size": 3127,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/13f49fe84a2b6de0e7e48aea78ab9de1824569e5"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Tariffs.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35f264711a80b12f19fdc3bfe82bbb2b28d371c5",
+      "size": 8263,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/35f264711a80b12f19fdc3bfe82bbb2b28d371c5"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/ThemeToggle.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "959734e8c9790b9739b837329de418049000b50d",
+      "size": 1331,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/959734e8c9790b9739b837329de418049000b50d"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Vouchers.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76fc59ece5f7f57bb910a746263113095afc9d48",
+      "size": 3598,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/76fc59ece5f7f57bb910a746263113095afc9d48"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/components/Zones.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c6ab401d2c0589a6fe2fb69e5668bd5af27d318",
+      "size": 622,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/1c6ab401d2c0589a6fe2fb69e5668bd5af27d318"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/index.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f8426bf62b5db15cd67b0f0f5d8e0c2b7489a58",
+      "size": 141,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/7f8426bf62b5db15cd67b0f0f5d8e0c2b7489a58"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/main.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "862eb349199f4ebd70117cd9fe5db6c8de5f0d82",
+      "size": 586,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/862eb349199f4ebd70117cd9fe5db6c8de5f0d82"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/src/utils.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82bbdbbfc073c65ae92d59f7fe047b2a877c5deb",
+      "size": 233,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/82bbdbbfc073c65ae92d59f7fe047b2a877c5deb"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/tailwind.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15cee2bdf38f901bd8d40706964854c2d8d623e8",
+      "size": 212,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/15cee2bdf38f901bd8d40706964854c2d8d623e8"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-admin/vite.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81ea92e8a36107759f2804aee4670767d1386c08",
+      "size": 167,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/81ea92e8a36107759f2804aee4670767d1386c08"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c65f0f00d6212e230236569f07e6a6bab485914e",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/c65f0f00d6212e230236569f07e6a6bab485914e"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "328fd827d155985b2405067df0e20a2a7f9316d3",
+      "size": 344,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/328fd827d155985b2405067df0e20a2a7f9316d3"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5d3f261351db437cbbb441c2bef480892c817f5",
+      "size": 301,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/a5d3f261351db437cbbb441c2bef480892c817f5"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f99fdfcf2645c3c84bb8c09e5c6c02a8cbe7da0",
+      "size": 74822,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/6f99fdfcf2645c3c84bb8c09e5c6c02a8cbe7da0"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "987a60cd1c784ba1a6face031d23c60b95b2ab2b",
+      "size": 555,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/987a60cd1c784ba1a6face031d23c60b95b2ab2b"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/postcss.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4a6220e2db5b2afb8b7eb96b2f252893fd913f0",
+      "size": 81,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b4a6220e2db5b2afb8b7eb96b2f252893fd913f0"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b9db5dfb93220b6a0c2438fa7ef4fdb510d443d5",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/b9db5dfb93220b6a0c2438fa7ef4fdb510d443d5"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/App.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "737ca68c9d34616cf9343858e0fbf5ce231d52c8",
+      "size": 1010,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/737ca68c9d34616cf9343858e0fbf5ce231d52c8"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/api.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76c6951091e83d26fbbce3fb7ae56acd7fab002e",
+      "size": 180,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/76c6951091e83d26fbbce3fb7ae56acd7fab002e"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5776183d34167a37311823a013cbcde5cd3e707d",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/5776183d34167a37311823a013cbcde5cd3e707d"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/components/AIExit.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbcd186d9351f531ab06e806799adc81d5415864",
+      "size": 25226,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/dbcd186d9351f531ab06e806799adc81d5415864"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/components/TicketFlow.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e06a5b987ca7263fc325ffa7de0f0210feaf049",
+      "size": 8084,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/5e06a5b987ca7263fc325ffa7de0f0210feaf049"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/components/ZonePicker.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f878ba94018ef362afe3335f96acee390259ae5d",
+      "size": 31289,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/f878ba94018ef362afe3335f96acee390259ae5d"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/components/assistant",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6dde83f9e4cb51c2d9ad781273ca33da2959bf48",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/6dde83f9e4cb51c2d9ad781273ca33da2959bf48"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/components/assistant/Assistant.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80e20e8ceabd09b9fa6279c336e3c4559096ad05",
+      "size": 13693,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/80e20e8ceabd09b9fa6279c336e3c4559096ad05"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/index.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a8b3c1ff9450f61e0c7e5d40c57ac8b831df693",
+      "size": 180,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/4a8b3c1ff9450f61e0c7e5d40c57ac8b831df693"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/src/main.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ddb0cba80e1f2092cd8c1d504ecf91ca8d0c86c",
+      "size": 228,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0ddb0cba80e1f2092cd8c1d504ecf91ca8d0c86c"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/tailwind.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36f2d0968c88bc195e20e02e363e8c7b14096cf4",
+      "size": 192,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/36f2d0968c88bc195e20e02e363e8c7b14096cf4"
+    },
+    {
+      "path": "smart-parking/frontends/frontend-user/vite.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efe63354e90b5e9c572d6ca72bd4cea66791fae1",
+      "size": 167,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/efe63354e90b5e9c572d6ca72bd4cea66791fae1"
+    },
+    {
+      "path": "smart-parking/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf848c957033c09ed4b39b5e7554d77045173e35",
+      "size": 40615,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/bf848c957033c09ed4b39b5e7554d77045173e35"
+    },
+    {
+      "path": "smart-parking/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3932c6580559d51d7e96f8654ff0caa4ae35a52c",
+      "size": 242,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/3932c6580559d51d7e96f8654ff0caa4ae35a52c"
+    },
+    {
+      "path": "smart-parking/packages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "56d2a216c0bce484a8280cc55902d052b750488b",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/56d2a216c0bce484a8280cc55902d052b750488b"
+    },
+    {
+      "path": "smart-parking/packages/common",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ba38a29240e0b9946af6dddf5a5806b55f591e7d",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/ba38a29240e0b9946af6dddf5a5806b55f591e7d"
+    },
+    {
+      "path": "smart-parking/packages/common/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "205f9626d506ca34af8854958bdc700b04be8b7b",
+      "size": 406,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/205f9626d506ca34af8854958bdc700b04be8b7b"
+    },
+    {
+      "path": "smart-parking/packages/common/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ab62930483b5e2aadb613a0aaecfd41c685b1b09",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/ab62930483b5e2aadb613a0aaecfd41c685b1b09"
+    },
+    {
+      "path": "smart-parking/packages/common/src/httpClient.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93807d81a1976971d4ef738a66ac4a3e1dc446c2",
+      "size": 303,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/93807d81a1976971d4ef738a66ac4a3e1dc446c2"
+    },
+    {
+      "path": "smart-parking/packages/common/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "042aed182ad962c522ba4dd415efa5b12ceec26c",
+      "size": 81,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/042aed182ad962c522ba4dd415efa5b12ceec26c"
+    },
+    {
+      "path": "smart-parking/packages/common/src/logger.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dbae8ebac67da023449ed9eae23fe46da164df6",
+      "size": 257,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/5dbae8ebac67da023449ed9eae23fe46da164df6"
+    },
+    {
+      "path": "smart-parking/packages/common/src/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4096f2f635e944906db11b13d61c6a9341768dcc",
+      "size": 587,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/4096f2f635e944906db11b13d61c6a9341768dcc"
+    },
+    {
+      "path": "smart-parking/packages/common/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c4a421a0b6ebad00fbb0928983105c000e150d4",
+      "size": 277,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/3c4a421a0b6ebad00fbb0928983105c000e150d4"
+    },
+    {
+      "path": "smart-parking/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "97a1c8e1fd49993b9fbc9c7cff08e2260b2c7668",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/97a1c8e1fd49993b9fbc9c7cff08e2260b2c7668"
+    },
+    {
+      "path": "smart-parking/scripts/dev-reset.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81af5ea9f2577c780d4043577c2a5091e852c2a6",
+      "size": 169,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/81af5ea9f2577c780d4043577c2a5091e852c2a6"
+    },
+    {
+      "path": "smart-parking/scripts/e2e.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e64b9986580e4be115f9c9cbf5618acb23f0a050",
+      "size": 4451,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e64b9986580e4be115f9c9cbf5618acb23f0a050"
+    },
+    {
+      "path": "smart-parking/scripts/generate-sensors.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "smart-parking/scripts/migrate.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0eacb4dd81df1383fcadadf5e1f652dc78633b9a",
+      "size": 467,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0eacb4dd81df1383fcadadf5e1f652dc78633b9a"
+    },
+    {
+      "path": "smart-parking/scripts/migrate_sqlite.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e346bc48bd12a0d6aea5789053959f1433bba64d",
+      "size": 3135,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e346bc48bd12a0d6aea5789053959f1433bba64d"
+    },
+    {
+      "path": "smart-parking/scripts/tree.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35cd67126f2f8ebcc4ca5bb71d565575580051f1",
+      "size": 5433,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/35cd67126f2f8ebcc4ca5bb71d565575580051f1"
+    },
+    {
+      "path": "smart-parking/scripts/tree.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9e719b1e30ab52627cd942ae3d5cee4fff40273",
+      "size": 5921,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/a9e719b1e30ab52627cd942ae3d5cee4fff40273"
+    },
+    {
+      "path": "smart-parking/services",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "79e14b21cf17a6760c8630691b1fd3078db60772",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/79e14b21cf17a6760c8630691b1fd3078db60772"
+    },
+    {
+      "path": "smart-parking/services/ai-module",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f551045b91c621f40137070661c236f69b5bde2a",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/f551045b91c621f40137070661c236f69b5bde2a"
+    },
+    {
+      "path": "smart-parking/services/ai-module/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f68aa8a342658267dbe349cb21bfe1e0c5c226a",
+      "size": 211,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0f68aa8a342658267dbe349cb21bfe1e0c5c226a"
+    },
+    {
+      "path": "smart-parking/services/ai-module/app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4a091853ed3313d11291456ef74024610258c770",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/4a091853ed3313d11291456ef74024610258c770"
+    },
+    {
+      "path": "smart-parking/services/ai-module/app/main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2a0c9f72fad3458d2e12a9a668db2768c7a5ef2",
+      "size": 10810,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/a2a0c9f72fad3458d2e12a9a668db2768c7a5ef2"
+    },
+    {
+      "path": "smart-parking/services/ai-module/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d2e1c1a45623d409de5d02cc1d658ff83c4ae4b",
+      "size": 50,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0d2e1c1a45623d409de5d02cc1d658ff83c4ae4b"
+    },
+    {
+      "path": "smart-parking/services/api-gateway",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b151c782858b4b117c9e9448c9a2508c6ed4ee02",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/b151c782858b4b117c9e9448c9a2508c6ed4ee02"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/.dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89ad33f2914c3e508e394254074a9170d45802aa",
+      "size": 72,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/89ad33f2914c3e508e394254074a9170d45802aa"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdefbefaa6bd3b0e8512f1036fb412bb9a97b3d3",
+      "size": 723,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/cdefbefaa6bd3b0e8512f1036fb412bb9a97b3d3"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40cc35001019419518c757ab80855b7ac6b17775",
+      "size": 26358,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/40cc35001019419518c757ab80855b7ac6b17775"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26aea39f5edab703e8967f8eb3b442f73b528f50",
+      "size": 604,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/26aea39f5edab703e8967f8eb3b442f73b528f50"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "95178d5b74102a6d2a74b4a154e52e6b5e2d44bc",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/95178d5b74102a6d2a74b4a154e52e6b5e2d44bc"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/src/config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e24701f59c4982918f7ed4253d04755dc7db7084",
+      "size": 334,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e24701f59c4982918f7ed4253d04755dc7db7084"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/src/docs.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e234d161a148ffc7189e691db067e2e0aa9dfb3e",
+      "size": 2511,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e234d161a148ffc7189e691db067e2e0aa9dfb3e"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "708f2d87236d5e40addc165025f8585cd29bf452",
+      "size": 1158,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/708f2d87236d5e40addc165025f8585cd29bf452"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/src/metrics.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "653eadd0772f20a2ca9b9826bc2783ff74f6ffaf",
+      "size": 854,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/653eadd0772f20a2ca9b9826bc2783ff74f6ffaf"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/src/routes.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5a753b5ad4f1679fc5c159e9c614d75cd627068",
+      "size": 8016,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b5a753b5ad4f1679fc5c159e9c614d75cd627068"
+    },
+    {
+      "path": "smart-parking/services/api-gateway/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6",
+      "size": 221,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e0f04edd2df2fdbc73da05c400e027270e35d0bf",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/e0f04edd2df2fdbc73da05c400e027270e35d0bf"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6b1a17074129842efc1a6558f63c9947c5b61fc",
+      "size": 426,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/c6b1a17074129842efc1a6558f63c9947c5b61fc"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b5e680402a13c933eee3b511f12e85639434180",
+      "size": 30235,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0b5e680402a13c933eee3b511f12e85639434180"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc9ec69af45206bd360397d2d05f965319234353",
+      "size": 492,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/bc9ec69af45206bd360397d2d05f965319234353"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ab47776b3d9f45162b5b25ba21d4524bd581662c",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/ab47776b3d9f45162b5b25ba21d4524bd581662c"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73af77e6e727d8cb2686ac008da0e01c043e383b",
+      "size": 17879,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/73af77e6e727d8cb2686ac008da0e01c043e383b"
+    },
+    {
+      "path": "smart-parking/services/assistant-bot/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2882752e133d392bfeaf3a668bc4eb4a81f23a1",
+      "size": 226,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/d2882752e133d392bfeaf3a668bc4eb4a81f23a1"
+    },
+    {
+      "path": "smart-parking/services/central",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "be111fae6f0401b57bfa361c91bbfa20ea701ead",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/be111fae6f0401b57bfa361c91bbfa20ea701ead"
+    },
+    {
+      "path": "smart-parking/services/central/.dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56a20c98dc240a3e36c0caa8868e9172577b6f0e",
+      "size": 60,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/56a20c98dc240a3e36c0caa8868e9172577b6f0e"
+    },
+    {
+      "path": "smart-parking/services/central/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bd0e7ce9c3eb9ad48a3a93860d8de19fddfc2e7",
+      "size": 719,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/2bd0e7ce9c3eb9ad48a3a93860d8de19fddfc2e7"
+    },
+    {
+      "path": "smart-parking/services/central/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98d74b1929352b4aa37cb81398af280df4e9d073",
+      "size": 27049,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/98d74b1929352b4aa37cb81398af280df4e9d073"
+    },
+    {
+      "path": "smart-parking/services/central/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b798382e151bd1e22e11768f17788a832514d1e0",
+      "size": 559,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/b798382e151bd1e22e11768f17788a832514d1e0"
+    },
+    {
+      "path": "smart-parking/services/central/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dad784669ccf21a671150dc12534418dbbe0408d",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/dad784669ccf21a671150dc12534418dbbe0408d"
+    },
+    {
+      "path": "smart-parking/services/central/src/db.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fe31cec00d0e5b8d6d8e6676902c70d7bf6d052",
+      "size": 410,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8fe31cec00d0e5b8d6d8e6676902c70d7bf6d052"
+    },
+    {
+      "path": "smart-parking/services/central/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c254b6b5b7c639cad6f419c7952fa1d9a854dc20",
+      "size": 2300,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/c254b6b5b7c639cad6f419c7952fa1d9a854dc20"
+    },
+    {
+      "path": "smart-parking/services/central/src/metrics.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "653eadd0772f20a2ca9b9826bc2783ff74f6ffaf",
+      "size": 854,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/653eadd0772f20a2ca9b9826bc2783ff74f6ffaf"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa57159e97d305aabf191cdc2fa669917bba59f8",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/fa57159e97d305aabf191cdc2fa669917bba59f8"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/admin.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69860fa61598c84da762d6fe1d6c145feb98934a",
+      "size": 12316,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/69860fa61598c84da762d6fe1d6c145feb98934a"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/ai-parking.code-workspace",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afc35437ae7d5ad9a53812e5889353c017d04bff",
+      "size": 73,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/afc35437ae7d5ad9a53812e5889353c017d04bff"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/ai.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ecc9845eba9933f255ffa6422884e5604391b83",
+      "size": 17930,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/4ecc9845eba9933f255ffa6422884e5604391b83"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/gate.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "188013769f46aceb0a1426c288b37b914a0a614e",
+      "size": 1161,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/188013769f46aceb0a1426c288b37b914a0a614e"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/health.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c2221d3136a453af467bb96a1d0809d6921f727",
+      "size": 146,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/5c2221d3136a453af467bb96a1d0809d6921f727"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/incidents.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3bf04dd92747d4c32c4562f0df251fe699e5873",
+      "size": 4288,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/e3bf04dd92747d4c32c4562f0df251fe699e5873"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/parking.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b3299bb8233854600278f9c1f8d0776b6fb049b",
+      "size": 2869,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/0b3299bb8233854600278f9c1f8d0776b6fb049b"
+    },
+    {
+      "path": "smart-parking/services/central/src/routes/payments.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b77dacdaf1fe7036fb2570001867c4c01d9eece",
+      "size": 1267,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/9b77dacdaf1fe7036fb2570001867c4c01d9eece"
+    },
+    {
+      "path": "smart-parking/services/central/src/services",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1cec9b4037f59efd7b7f8ebc8df6541b1c0b7c54",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/1cec9b4037f59efd7b7f8ebc8df6541b1c0b7c54"
+    },
+    {
+      "path": "smart-parking/services/central/src/services/aiClient.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c70d7b861ccc9e8e3d99052344ce11ada9b23e0e",
+      "size": 423,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/c70d7b861ccc9e8e3d99052344ce11ada9b23e0e"
+    },
+    {
+      "path": "smart-parking/services/central/src/services/paymentClient.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "649d39da095e03a2b30773eaa38920d65d692751",
+      "size": 427,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/649d39da095e03a2b30773eaa38920d65d692751"
+    },
+    {
+      "path": "smart-parking/services/central/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6",
+      "size": 221,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1d3a712b7a5505ea4f26e84c75bb695f3b12ed45",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/1d3a712b7a5505ea4f26e84c75bb695f3b12ed45"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fc05b4d3c3d1c0e58f43dae5cf451d2a1d74f2a",
+      "size": 139,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/1fc05b4d3c3d1c0e58f43dae5cf451d2a1d74f2a"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63ec9ccdd728ccf6ff772caf0b526a73661397ad",
+      "size": 27681,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/63ec9ccdd728ccf6ff772caf0b526a73661397ad"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1489e041f576cc07cec147b134b5f4a7c27eecad",
+      "size": 385,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/1489e041f576cc07cec147b134b5f4a7c27eecad"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7722b4b973702fc54252812ac355de2dc07d76f2",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/7722b4b973702fc54252812ac355de2dc07d76f2"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86fa023b0b514578b70d69be68b8ab987f279edc",
+      "size": 770,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/86fa023b0b514578b70d69be68b8ab987f279edc"
+    },
+    {
+      "path": "smart-parking/services/iot-simulator/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6",
+      "size": 221,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6"
+    },
+    {
+      "path": "smart-parking/services/monitor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1f7bca1881761f6e9e188d072ce32103d4d4b18e",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/1f7bca1881761f6e9e188d072ce32103d4d4b18e"
+    },
+    {
+      "path": "smart-parking/services/monitor/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2da705b48745c3dce950637454a8e26b0519410",
+      "size": 170,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/a2da705b48745c3dce950637454a8e26b0519410"
+    },
+    {
+      "path": "smart-parking/services/monitor/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cda5a6178958e914130ba44031ca16f8a3cc46a8",
+      "size": 379,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/cda5a6178958e914130ba44031ca16f8a3cc46a8"
+    },
+    {
+      "path": "smart-parking/services/monitor/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a30eb681f51e6a8a9b32b05731458571530b1f90",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/a30eb681f51e6a8a9b32b05731458571530b1f90"
+    },
+    {
+      "path": "smart-parking/services/monitor/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "999cf34352ff4f6748ad0c3f8b46e6dacf33653e",
+      "size": 2659,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/999cf34352ff4f6748ad0c3f8b46e6dacf33653e"
+    },
+    {
+      "path": "smart-parking/services/monitor/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2882752e133d392bfeaf3a668bc4eb4a81f23a1",
+      "size": 226,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/d2882752e133d392bfeaf3a668bc4eb4a81f23a1"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2460721b7468f491580e9fa93336a4f10bd780dc",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/2460721b7468f491580e9fa93336a4f10bd780dc"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/.dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56a20c98dc240a3e36c0caa8868e9172577b6f0e",
+      "size": 60,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/56a20c98dc240a3e36c0caa8868e9172577b6f0e"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fc05b4d3c3d1c0e58f43dae5cf451d2a1d74f2a",
+      "size": 139,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/1fc05b4d3c3d1c0e58f43dae5cf451d2a1d74f2a"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48dfd86a869cd31ddc03d7d548be2b7f15f940a6",
+      "size": 51733,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/48dfd86a869cd31ddc03d7d548be2b7f15f940a6"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8409ed89285f05c0656c3e9886929c0659fbabbd",
+      "size": 448,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8409ed89285f05c0656c3e9886929c0659fbabbd"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5d7893edc3b946921a01034f2b75c8622e29e11a",
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/trees/5d7893edc3b946921a01034f2b75c8622e29e11a"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "347f379ccc17dfe3609a5a32a89d7a2018ba2c8d",
+      "size": 1583,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/347f379ccc17dfe3609a5a32a89d7a2018ba2c8d"
+    },
+    {
+      "path": "smart-parking/services/payment-simulator/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6",
+      "size": 221,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/8b5044fd1648bc8b5a3a60f2ccb492f250fcceb6"
+    },
+    {
+      "path": "smart-parking/tmp_staging.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ec33d1afcda9ef800e93c9459a5ce2188f0ac59",
+      "size": 7044,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/2ec33d1afcda9ef800e93c9459a5ce2188f0ac59"
+    },
+    {
+      "path": "smart-parking/tmp_staging2.sql",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef9b1fb021b2dd9ac5fea656b4528b5e09f3baa5",
+      "size": 7043,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/ef9b1fb021b2dd9ac5fea656b4528b5e09f3baa5"
+    },
+    {
+      "path": "tree.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1826281e93baa502db1b6fa9a0278bfe979052c9",
+      "size": 5977,
+      "url": "https://api.github.com/repos/Koyd1/GIGAHACK-2025-FalcoNS/git/blobs/1826281e93baa502db1b6fa9a0278bfe979052c9"
+    }
+  ],
+  "truncated": false
+}

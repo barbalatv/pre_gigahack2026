@@ -1,0 +1,23 @@
+{
+  "sha": "f51dfeb43f00bb1086960249de771f44f3f36c6c",
+  "url": "https://api.github.com/repos/LiviuMrc/Gigahack-2024-HEX-team/git/trees/f51dfeb43f00bb1086960249de771f44f3f36c6c",
+  "tree": [
+    {
+      "path": "Gigahack Writeup HEX.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "946460a729c62494d2c7450234632d29d8399265",
+      "size": 4315741,
+      "url": "https://api.github.com/repos/LiviuMrc/Gigahack-2024-HEX-team/git/blobs/946460a729c62494d2c7450234632d29d8399265"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "146c1e04818c862bccf2878a6cef6866064c5460",
+      "size": 3955,
+      "url": "https://api.github.com/repos/LiviuMrc/Gigahack-2024-HEX-team/git/blobs/146c1e04818c862bccf2878a6cef6866064c5460"
+    }
+  ],
+  "truncated": false
+}
