@@ -49,7 +49,15 @@
 
 ## Рабочие шаблоны
 
-[Challenge card](templates/challenge_card.md) · [Реестр утверждений](templates/claims_ledger.md) · [AI task](templates/agent_task.md) · [Mentor notes](templates/mentor_notes.md) · [Submission checklist](templates/submission_checklist.md).
+Короткие заполняемые формы для исполнения принятых правил:
+
+- [Challenge card](templates/challenge_card.md) — выбор и разбор challenge.
+- [Agent task](templates/agent_task.md) — bounded workstream: контракт AI-задачи, gates и записка при паузе.
+- [Drill protocol](templates/drill_protocol.md) — репетиция A–F, измерения и evidence для калибровки.
+- [Shift handoff](templates/shift_handoff.md) — передача живого состояния, known-good main и WIP.
+- [Claims ledger / Реестр утверждений](templates/claims_ledger.md) — доказательства и границы утверждений.
+- [Mentor notes](templates/mentor_notes.md) — входящие требования, предпочтения и решения по ним.
+- [Submission checklist](templates/submission_checklist.md) — финальная сдача и проверка доступа.
 
 ## Порядок действий
 
