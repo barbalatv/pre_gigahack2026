@@ -4,6 +4,8 @@
 
 Учебный репозиторий: [barbalatv/utm-curs-i-orar-2027](https://github.com/barbalatv/utm-curs-i-orar-2027).
 
+Чтобы подготовить AI к заданиям: [настройте Qwen Project и curated context](ai_onboarding.md), затем используйте [генератор задания для Gemini](templates/generate_gemini_prompt.md). [Playbook с примерами](prompting_playbook.md) объясняет contract → evidence → review/fix-up в исходном Qwen chat; [Antigravity guide](antigravity_gemini_workflow.md) — исполнение и передачу evidence. Требования упражнений и gates ниже сохраняются.
+
 ## 0. Зачем мы вообще даём маленькие задания
 
 Цель упражнений — не проверить, кто быстрее пишет React-код. Мы тренируем полный путь, который понадобится на хакатоне:
