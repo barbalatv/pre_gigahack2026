@@ -1,6 +1,7 @@
 # GIGAHACK 2026 — OPERATING DECISIONS
 
 **Version:** 2.1 (05.09.2026, калибровка: ровно пять человек, целевые направления, drills вместо репетиций)
+**Уточнение §7:** 09.09.2026 — принят личный AI lifecycle; остальные стратегические решения v2.1 сохраняются.
 **Status:** ACTIVE PLANNING BASELINE
 **Purpose:** фиксировать внутренние решения команды там, где официальный GigaHack 2026 rulebook отсутствует, неполон или не влияет на нашу стратегию.
 
@@ -181,6 +182,16 @@
 ## Decision
 
 Используем AI для разработки максимально активно: ChatGPT, Codex, Claude / Claude Code, Gemini, Grok, Qwen, Cursor, Copilot и другие подходящие модели; несколько агентов параллельно; специализированные research/review/implementation агенты.
+
+### Уточнение рабочего процесса — DECISION 09.09.2026
+
+Основной бесплатный **Project Brain — Qwen Studio** (Context Compiler, Task Architect, Continuity Keeper, Implementation Reviewer, Fix-up Prompt Architect); основной **Coding Executor — Antigravity + Gemini**. Один постоянный Project; каждый существенный implementation step начинается в новом чате, где остаются контракт, implementation evidence, review и targeted fix-up этого шага. Короткий сохранённый итог поддерживает continuity; автоматическая память не предполагается.
+
+Цикл: intent → context / Recon при необходимости → единый [task contract](templates/agent_task.md) → execution → evidence → review в исходном step-chat → fix-up или ACCEPTABLE → человеческие Git / integration gates. Review независим от исполнителя и является advisory: `ACCEPTABLE / FIX REQUIRED / BLOCKED: MISSING EVIDENCE` не передают модели права на commit, merge или release. Действующие полномочия Integrator / Technical Deputy и Git policy сохраняются.
+
+**Standardize the interface, not the vendor:** ChatGPT, Claude и другой совместимый сильный Prompt Architect — допустимые альтернативы с тем же контрактом/evidence lifecycle. Antigravity-only — работоспособный fallback с человеческим review постановки и evidence. Для trivial work возможен короткий путь; усилие определяется риском и скрытым контекстом, не количеством минут.
+
+Preparation repository остаётся **private**; Qwen получает необходимый curated export, а не весь corpus. Будущий application repository планируется **public**, если official rules / provider confidentiality не требуют private. Публичный GitHub показывает опубликованную baseline, не локальное состояние; для review передаются diff и фактические проверки. Секреты, private partner data, confidential brief, запрещённые datasets и внутренние preparation documents не публикуются ради доступа модели. Private-приложение поддерживается через targeted local Recon/evidence. Практическая настройка и резерв Source slots — в [onboarding](ai_onboarding.md).
 
 ## Internal Policy
 

@@ -18,6 +18,16 @@
 
 ## Что читать и кому
 
+**Если до сих пор использовали AI как обычный чат:**
+
+1. [Executive Brief](EXECUTIVE_BRIEF.md) — что мы делаем и зачем.
+2. [AI onboarding](ai_onboarding.md) — где AI полезен, как настроить Qwen Project, постоянные инструкции и один curated Source из пяти; public/private context и fallback.
+3. [Prompting playbook](prompting_playbook.md) — полный цикл context → contract → execution → evidence → review → fix-up / human gate; три примера на учебном repository.
+4. [Antigravity + Gemini](antigravity_gemini_workflow.md) — рабочая копия, исполнение, evidence package и возврат в тот же Qwen step-chat.
+5. [AI workflow](ai_workflow.md) — когда понадобятся несколько workstreams, общие контракты, интеграция и evaluation.
+
+**Если onboarding уже освоен:** используйте прежнюю карту документов ниже; для новой задачи достаточно [генератора prompt](templates/generate_gemini_prompt.md) и [agent_task](templates/agent_task.md). Каждый новый существенный шаг — новый чат Project; review и fix-up остаются в исходном чате. Qwen — default free Project Brain; ChatGPT/Claude — совместимые альтернативы. Решение принято 09.09.2026; продуктовый срез Antigravity — 08.09.2026.
+
 | Документ | Для чего |
 |---|---|
 | [Executive Brief](EXECUTIVE_BRIEF.md) | Короткое общее решение: 15 ответов и десять главных советов |
@@ -53,6 +63,9 @@
 
 - [Challenge card](templates/challenge_card.md) — выбор и разбор challenge.
 - [Agent task](templates/agent_task.md) — bounded workstream: контракт AI-задачи, gates и записка при паузе.
+- [Prompt Architect instructions](templates/prompt_architect_instructions.md) — единое provider-neutral ядро для контекста, контракта и review.
+- [Curated Project Brain context](context/project_brain_context.md) — один датированный экспорт private preparation context для одного из пяти Sources, не новый source of truth.
+- [Generate an implementation prompt for Gemini](templates/generate_gemini_prompt.md) — запрос к Project Brain: собрать контекст, самодостаточный контракт и требования к evidence по Agent task.
 - [Drill protocol](templates/drill_protocol.md) — репетиция A–F, измерения и evidence для калибровки.
 - [Shift handoff](templates/shift_handoff.md) — передача живого состояния, known-good main и WIP.
 - [Claims ledger / Реестр утверждений](templates/claims_ledger.md) — доказательства и границы утверждений.
@@ -90,3 +103,5 @@
 Публичный стратегический срез завершён: актуальный rulebook, окончательные briefs, финальная форма сдачи и окончательный состав команды остаются неизвестными — на них даны условия решения. Практические упражнения команды уже идут в отдельном учебном репозитории; они дали первые измеримые lessons learned по fork hygiene, scope control и review AI-generated diff. Starter-код в этом репозитории по-прежнему не реализовывался и не публиковался.
 
 История исправлений: [аудит canon](research/canon_audit.md), [сверка с operating decisions](research/operating_alignment.md), [архив прежнего baseline](research/archive/multi_team_baseline_2026-09-05.md), [проверка пакета](research/verification.md). Материалы research — техническая история проверки, а не обязательное чтение команды.
+
+Аудит и проверка нового учебного слоя: [AI onboarding review](research/ai_onboarding_review.md).
